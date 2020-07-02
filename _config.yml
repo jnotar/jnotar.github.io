@@ -1,5 +1,5 @@
 title: Julia Notar, M.S.
 description: Check out my work!
-remote_theme: pmarsceill/just-the-docs
-#remote_theme: daattali/beautiful-jekyll
+#remote_theme: pmarsceill/just-the-docs
+remote_theme: daattali/beautiful-jekyll
 #remote_theme: jekyll/minima
