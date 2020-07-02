@@ -7,10 +7,12 @@ remote_theme: daattali/beautiful-jekyll
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Resources:
-    - Beautiful Jekyll: "google.com"
-    - Learn markdown: "google.com"
-  Author's home: "google.com"
+  CV: "cv"
+  # Resources:
+  #   - Beautiful Jekyll: "google.com"
+  #   - Learn markdown: "google.com"
+  Teaching: "teaching"
+  Photography: "photography"
 
 # --- Logo --- #
 
