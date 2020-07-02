@@ -1,3 +1,4 @@
 title: Julia Notar, M.S.
 description: Check out my work!
-remote_theme: daattali/beautiful-jekyll
+#remote_theme: daattali/beautiful-jekyll
+remote_theme: poole/lanyon
