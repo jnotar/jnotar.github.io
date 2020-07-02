@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
 title: Julia Notar, M.S.
 description: Check out my work!
-remote_theme: fromendworld/loffer
+remote_theme: poole/hyde
