@@ -1,3 +1,3 @@
 ## header
 
-![me](julia.jpg){:width=40%}
+![me](julia.jpg){:width="20px"}
