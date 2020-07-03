@@ -1,3 +1,3 @@
 ## About Me
 
-![me](julia.jpg){:width="200px"}
+![me](julia.jpg){:width="350px"}
