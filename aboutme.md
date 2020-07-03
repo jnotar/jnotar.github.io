@@ -1,1 +1,1 @@
-[!image]("julia.jpg")
+![image]("julia.jpg" = 250x)
