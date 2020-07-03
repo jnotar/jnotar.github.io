@@ -1,4 +1,3 @@
 ## header
 
-![Image](julia.jpg)
-<img src="./julia.jpg" width="100" height="100">
+![Image](julia.jpg =100x100)
