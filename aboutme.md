@@ -1,3 +1,3 @@
 ## header
 
-![Image](julia.jpg =250x)
+![Image](julia.jpg)
