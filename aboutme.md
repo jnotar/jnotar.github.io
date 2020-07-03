@@ -1,4 +1,4 @@
 ## header
 
-![me](julia.jpg){:width="20px"}
-something
+![me](julia.jpg){:width="100px"}
+something here
