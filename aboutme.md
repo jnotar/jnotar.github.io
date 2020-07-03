@@ -1,4 +1,3 @@
-## header
+## About Me
 
-![me](julia.jpg){:width="100px"}
-something here
+![me](julia.jpg){:width="200px"}
