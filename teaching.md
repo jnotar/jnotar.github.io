@@ -5,12 +5,12 @@ title: Teaching
 
 ## Teaching Experience
 
-**Certificate in College Teaching Program** Duke University (2019-Present)
+**Certificate in College Teaching Program**   Duke University (2019-Present)
 
-**Teaching Associate, Teaching Assistant** Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
+**Teaching Associate, Teaching Assistant**   Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
 
 ### Awards
-- **Schechtman Teaching Award** for Outstanding Merit in Instruction and Service, Department of Ecology and Evolutionary Biology, UCLA (2015)
+- **Schechtman Teaching Award for Outstanding Merit in Instruction and Service**   Department of Ecology and Evolutionary Biology, UCLA (2015)
 
 
 ### Courses
