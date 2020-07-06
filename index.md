@@ -1,6 +1,7 @@
 ---
-title: Home
-# subtitle: What I'm up to
+title: Julia Notar, M.S.
+subtitle: PhD Student, Duke University
+cover-img: "urchin-cover2.jpg"
 layout: home
 ---
 
