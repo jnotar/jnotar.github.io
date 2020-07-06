@@ -1,4 +1,7 @@
-#        
+---
+title: Teaching
+# subtitle: What I'm up to
+---
 
 ## Teaching Experience
 

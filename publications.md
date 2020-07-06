@@ -1,4 +1,7 @@
-### Research Publications
+---
+title: Publications
+# subtitle: What I'm up to
+---
 
 **Notar, JC**, Wong, K, and Gordon, MS. _(in prep)_ Visual Ecology of Three Species of Southern California Sea Urchin
 
