@@ -1,6 +1,6 @@
 ---
 title: Julia Notar, M.S.
-subtitle: PhD Candidate, Duke University
+subtitle: PhD Candidate, Biology
 cover-img: "urchin-cover2.jpg"
 layout: home
 ---
