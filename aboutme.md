@@ -4,4 +4,4 @@ title: About Me
 cover-img: "Strongylocentrotus_purpuratus_test_aboral.jpg"
 ---
 
-![me](julia.jpg){:width="350px"} I'm a PhD student at Duke University, studying sea urchins.
+![me](julia.jpg){:width="350px"}| I'm a PhD student at Duke University, studying sea urchins.
