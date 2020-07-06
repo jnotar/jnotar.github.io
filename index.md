@@ -1,3 +1,9 @@
+---
+title: Home
+# subtitle: What I'm up to
+layout: home
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jnotar/jnotar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
