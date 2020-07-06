@@ -6,12 +6,12 @@
 **Teaching Associate, Teaching Assistant** Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
 
 ### Awards
-- *Schechtman Teaching Award* for Outstanding Merit in Instruction and Service, Department of Ecology and Evolutionary Biology, UCLA (2015)
+- **Schechtman Teaching Award** for Outstanding Merit in Instruction and Service, Department of Ecology and Evolutionary Biology, UCLA (2015)
 
 
 ### Courses
 #### Graduate Courses
-- Advanced Experimental Statistics (Graduate Course) \*_Head TA_
+- Advanced Experimental Statistics \*_Head TA_
 
 #### Field Courses
 - Experimental Marine Invertebrate Biology
