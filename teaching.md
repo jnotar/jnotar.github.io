@@ -1,3 +1,4 @@
+#
 ## Teaching Experience
 
 **Certificate in College Teaching Program** Duke University (2019-Present)
@@ -8,7 +9,7 @@
 - *Schechtman Teaching Award* for Outstanding Merit in Instruction and Service, Department of Ecology and Evolutionary Biology, UCLA (2015)
 
 
-### Courses:
+### Courses
 #### Graduate Courses
 - Advanced Experimental Statistics (Graduate Course) \*_Head TA_
 
