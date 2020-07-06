@@ -5,7 +5,7 @@
 **Teaching Associate, Teaching Assistant** Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
 
 ### Awards
-Schechtman Teaching Award for Outstanding Merit in Instruction and Service, Department of Ecology and Evolutionary Biology, UCLA
+- *Schechtman Teaching Award* for Outstanding Merit in Instruction and Service, Department of Ecology and Evolutionary Biology, UCLA (2015)
 
 
 ### Courses:
