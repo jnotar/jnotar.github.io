@@ -1,6 +1,6 @@
 ---
 title: Julia Notar, M.S.
-subtitle: PhD Student, Duke University
+subtitle: PhD Candidate, Duke University
 cover-img: "urchin-cover2.jpg"
 layout: home
 ---

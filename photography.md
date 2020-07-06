@@ -2,4 +2,4 @@
 title: Photography
 ---
 
-![Image](DSC_2477.jpg){:width = "200px"}
+![Image](DSC_2477.jpg){:width="350px"}
