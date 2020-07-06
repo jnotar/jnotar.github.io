@@ -1,3 +1,3 @@
-## About Me
+<title>About Me</title>
 
-![me](julia.jpg){:width="350px"}|I'm a PhD student at Duke University, studying sea urchins. 
+![me](julia.jpg){:width="350px"}|I'm a PhD student at Duke University, studying sea urchins.
