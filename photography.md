@@ -1,6 +1,6 @@
 ---
 title: Photography
-cover-img: "intakepipes.jpg"
+cover-img: "intakepipes.png"
 ---
 
 ![fish](photography_page/DSC_2477.jpg){:width="350px"}
