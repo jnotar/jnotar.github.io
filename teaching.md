@@ -1,4 +1,5 @@
-#
+#        
+
 ## Teaching Experience
 
 **Certificate in College Teaching Program** Duke University (2019-Present)
