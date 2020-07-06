@@ -1,3 +1,5 @@
+### Research Publications
+
 **Notar, JC**, Wong, K, and Gordon, MS. _(in prep)_ Visual Ecology of Three Species of Southern California Sea Urchin
 
 Gordon, MS and **Notar, JC.** (2015) Can systems biology help to separate evolutionary analogies (convergent homoplasies) from homologies? _Progress in Biophysics and Molecular Biology_ 117: 19-29
