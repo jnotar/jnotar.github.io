@@ -2,7 +2,6 @@
 title: Publications
 # subtitle: What I'm up to
 cover-img: "urchin-cover1.jpg"
-nav-short: true
 ---
 
 **Notar, JC**, Wong, K, and Gordon, MS. _(in prep)_ Visual Ecology of Three Species of Southern California Sea Urchin

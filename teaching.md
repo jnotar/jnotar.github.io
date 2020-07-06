@@ -1,7 +1,6 @@
 ---
 title: Teaching
 # subtitle: What I'm up to
-nav-short: true
 ---
 
 ## Teaching Experience
