@@ -9,7 +9,6 @@ navbar-links:
   My Research:
      - Research Interests: "research"
      - Publications: "publications"
-     - CV: "cv"
   # Resources:
   #   - Beautiful Jekyll: "google.com"
   #   - Learn markdown: "google.com"
