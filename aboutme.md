@@ -1,7 +1,7 @@
 ---
 title: About Me
 # subtitle: What I'm up to
-cover-img: "Strongylocentrotus_purpuratus_test_aboral.jpg"
+cover-img: "urchin-cover1.jpg"
 ---
 
 ![me](australia_kelp.JPG){:width="450px"}

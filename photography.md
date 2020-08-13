@@ -1,6 +1,6 @@
 ---
 title: Photography
-cover-img: "intakepipes.png"
+cover-img: "urchin-cover1.jpg"
 ---
 
 ![fish](photography_page/DSC_2477.jpg){:width="350px"}

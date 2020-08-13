@@ -1,7 +1,7 @@
 ---
 title: Julia Notar
 subtitle: Visual Ecology PhD Student
-cover-img: "urchin-cover2.jpg"
+cover-img: "urchin-cover1.jpg"
 layout: home
 ---
 
