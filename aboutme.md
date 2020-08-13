@@ -4,4 +4,6 @@ title: About Me
 cover-img: "Strongylocentrotus_purpuratus_test_aboral.jpg"
 ---
 
-![me](australia_kelp.JPG){:width="350px"} I am currently a PhD Candidate in Sönke Johnsen's lab at Duke Biology. [You can find my profile on the Johnsen lab website here.](https://opticsoflife.org/people/julia.html)
+![me](australia_kelp.JPG){:width="450px"}
+
+I'm a PhD Candidate in Sönke Johnsen's lab at Duke Biology. [You can find my profile on the Johnsen lab website here.](https://opticsoflife.org/people/julia.html)
