@@ -1,12 +1,8 @@
 ---
 title: About Me
 # subtitle: What I'm up to
-cover-img: "australia_kelp.JPG"
+# cover-img: "australia_kelp.JPG"
 ---
-
-![me](australia_kelp.JPG){:width="450px"}
-
-xyz
 
 <img align="right" width="450" src="/australia_kelp.JPG">
 
