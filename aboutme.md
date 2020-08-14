@@ -1,7 +1,7 @@
 ---
 title: About Me
 # subtitle: What I'm up to
-# cover-img: "urchin-cover1.jpg"
+cover-img: "australia_kelp.JPG"
 ---
 
 ![me](australia_kelp.JPG){:width="450px"}
