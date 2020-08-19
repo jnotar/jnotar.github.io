@@ -8,8 +8,8 @@ My research focuses on the function and behavior of animals with distributed/dif
 
 1) Sea Urchin visually-guided behavior by habitat
 
-2) Trends in spine density & visual acuity across the sea urchins
+2) Trends in spine density & visual acuity across sea urchin species
 
-3) Learning in brittle stars
+3) Light sensitivity across the urchin body
 
-4) Light sensitivity across the urchin body
+4) Learning in brittle stars
