@@ -8,4 +8,4 @@ cover-img: "urchin-cover1.jpg"
 
 I'm a PhD Candidate in Sönke Johnsen's lab at Duke Biology. [You can find my profile on the Johnsen lab website here.](https://opticsoflife.org/people/julia.html)
 
-You can get in touch with me at julia[dot]notar[at]duke.edu
+You can get in touch with me at julia.notar (at) duke.edu
