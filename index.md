@@ -1,7 +1,7 @@
 ---
 title: Julia Notar
 subtitle: Visual Ecology PhD Student
-cover-img: "australia_kelp.jpg"
+cover-img: "australia_kelp.JPG"
 layout: home
 ---
 
