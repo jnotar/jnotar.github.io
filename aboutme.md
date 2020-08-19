@@ -4,6 +4,8 @@ title: About Me
 cover-img: "urchin-cover1.jpg"
 ---
 
-<img style="float: left; padding-right: 20px;" width="470" src="/australia_kelp.JPG">
+<img style="float: left; padding-right: 20px;" width="500" src="/australia_kelp.JPG">
 
 I'm a PhD Candidate in Sönke Johnsen's lab at Duke Biology. [You can find my profile on the Johnsen lab website here.](https://opticsoflife.org/people/julia.html)
+
+You can get in touch with me at julia[dot]notar[at]duke.edu
