@@ -4,7 +4,6 @@ title: About Me
 cover-img: "urchin-cover1.jpg"
 ---
 
-<img align="left" width="450" src="/australia_kelp.JPG">
+<img style="float:left" width="450" src="/australia_kelp.JPG">
 
-<p>I'm a PhD Candidate in Sönke Johnsen's lab at Duke Biology.
-[You can find my profile on the Johnsen lab website here.](https://opticsoflife.org/people/julia.html)
+I'm a PhD Candidate in Sönke Johnsen's lab at Duke Biology. [You can find my profile on the Johnsen lab website here.](https://opticsoflife.org/people/julia.html)
