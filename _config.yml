@@ -6,6 +6,7 @@ remote_theme: daattali/beautiful-jekyll
 
 navbar-links:
   # About Me: "aboutme"
+  CV: "cv-sample-test.pdf"
   My Research: "research"
   Publications: "publications"
   # Resources:
