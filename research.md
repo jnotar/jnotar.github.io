@@ -6,8 +6,6 @@ cover-img: "urchin-cover1.jpg"
 
 My research focuses on the behavior of animals with distributed visual and nervous systems. I want to understand what they can sense and what decisions they make with this information. While I primarily work with sea urchins, I am also interested in other echinoderms and marine invertebrates more broadly. My current work incorporates behavioral experiments, comparative morphology, and phylogenetics.
 
-![](collage.jpg)
-
 #### Current Projects
 
 1. Differences in sea urchin visually-guided behavior, by habitat
