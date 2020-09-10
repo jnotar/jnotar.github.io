@@ -10,12 +10,12 @@ cover-img: "urchin-cover1.jpg"
 
 ![scuba](photography_page/scuba_selfie.JPG){:width="702px"}
 
-![whitefish](photography_page/whitefish.jpg){:width="350px"}
+![whitefish](photography_page/white_fish.jpg){:width="350px"}
 ![yshrimp](photography_page/yellow_shrimp.jpg){:width="350px"}
 
 ![intakepipes](intakepipes.png){:width="702px"}
 
-![tests](photography_page/stackedtests.jpg){:width="350px"}
+![side](photography_page/urchin_side.jpg){:width="350px"}
 ![phronima](photography_page/phronima.png){:width="350px"}
 
 ![littlefloat](photography_page/little_float.jpg){:width="350px"}
@@ -24,3 +24,5 @@ cover-img: "urchin-cover1.jpg"
 ![side](photography_page/urchin_side.jpg){:width="702px"}
 
 ![aboral](photography_page/aboral.jpg){:width="702px"}
+
+![tests](photography_page/stackedtests.jpg){:width="702px"}
