@@ -1,7 +1,7 @@
 ---
 title: Research Interests
 # subtitle: What I'm up to
-cover-img: "urchin-cover1.jpg"
+cover-img: "collage.jpg"
 ---
 
 My research focuses on the behavior of animals with distributed visual and nervous systems. I want to understand what they can sense and what decisions they make with this information. While I primarily work with sea urchins, I am also interested in other echinoderms and marine invertebrates more broadly. My current work incorporates behavioral experiments, comparative morphology, and phylogenetics.
