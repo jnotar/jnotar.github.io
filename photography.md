@@ -21,8 +21,6 @@ cover-img: "urchin-cover1.jpg"
 ![littlefloat](photography_page/little_float.jpg){:width="350px"}
 ![rshrimp](photography_page/red_shrimp.jpg){:width="350px"}
 
-![side](photography_page/urchin_side.jpg){:width="702px"}
-
 ![aboral](photography_page/aboral.jpg){:width="702px"}
 
 ![tests](photography_page/stackedtests.jpg){:width="702px"}
