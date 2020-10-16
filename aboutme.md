@@ -4,7 +4,7 @@ title: About Me
 cover-img: "urchin-cover1.jpg"
 ---
 
-<img style="float: left; padding-right: 20px;" width="300" src="/australia_kelp2.jpg">
+<img style="float: left; padding-right: 20px;" width="300" src="/australia_kelp2.JPG">
 
 ![snorkel](/snorkeling at catalina.jpg)
 
