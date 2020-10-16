@@ -1,5 +1,5 @@
 ---
-title: Research Interests
+title: Research
 # subtitle: What I'm up to
 cover-img: "urchin-cover1.jpg"
 ---

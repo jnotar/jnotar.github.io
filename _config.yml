@@ -5,8 +5,8 @@ remote_theme: daattali/beautiful-jekyll
 #remote_theme: jekyll/minima
 
 navbar-links:
-  # About Me: "aboutme"
-  My Research: "research"
+  About Me: "aboutme"
+  Research: "research"
   # CV: "cv-sample-test.pdf"
   Publications: "publications"
   # Resources:

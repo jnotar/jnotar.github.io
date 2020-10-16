@@ -4,8 +4,12 @@ title: About Me
 cover-img: "urchin-cover1.jpg"
 ---
 
-<img style="float: left; padding-right: 20px;" width="500" src="/australia_kelp.JPG">
+<img style="float: left; padding-right: 20px;" width="500" src="/catalina diving.JPG">
 
-I'm a PhD Candidate in Sönke Johnsen's lab at Duke Biology. [You can find my profile on the Johnsen lab website here.](https://opticsoflife.org/people/julia.html)
+<img style="float: left; padding-right: 20px;" width="500" src="/snorkeling at catalina.JPG">
 
-You can get in touch with me at julia.notar (at) duke.edu
+You can email me at julia.notar (at) duke.edu
+
+[Johnsen lab website profile](https://opticsoflife.org/people/julia.html)
+
+[Google Scholar profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
