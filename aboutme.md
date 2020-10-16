@@ -6,7 +6,7 @@ cover-img: "urchin-cover1.jpg"
 
 <img style="float: left; padding-right: 20px;" width="500" src="/catalina diving.JPG">
 
-<img style="float: left; padding-right: 20px;" width="500" src="/snorkeling at catalina.JPG">
+<img style="float: left; padding-right: 20px;" width="500" src="/snorkeling at catalina.jpg">
 
 You can email me at julia.notar (at) duke.edu
 
