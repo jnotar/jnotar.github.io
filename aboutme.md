@@ -4,9 +4,7 @@ title: About Me
 cover-img: "urchin-cover1.jpg"
 ---
 
-<img style="float: left; padding-right: 20px;" width="300" src="/australia_kelp2.JPG">
-
-![snorkel](/snorkeling at catalina.jpg)
+<img style="float: left; padding-right: 20px;" width="400" src="/snorkeling at catalina.jpg">
 
 You can email me at julia.notar (at) duke.edu
 
@@ -14,4 +12,4 @@ You can email me at julia.notar (at) duke.edu
 
 [Johnsen lab website profile](https://opticsoflife.org/people/julia.html)
 
-[Google Scholar profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
