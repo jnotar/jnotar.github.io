@@ -4,7 +4,7 @@ title: Research
 cover-img: "urchin-cover1.jpg"
 ---
 
-My research focuses on the behavior of animals with distributed visual and nervous systems. I want to understand what they can sense and what decisions they make with this information. While I primarily work with sea urchins, I am also interested in other echinoderms and marine invertebrates more broadly. My current work incorporates behavioral experiments, comparative morphology, and phylogenetics.
+My current work incorporates approaches from the fields of animal behavior, comparative morphology, and phylogenetics.
 
 #### Current Projects
 
