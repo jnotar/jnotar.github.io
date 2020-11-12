@@ -30,11 +30,11 @@ cover-img: "urchin-cover1.jpg"
 
 #### Introductory Level Courses
 - Introduction to Ecology & Behavior  
-- Living Ocean (General Education for non-majors)
+- Living Ocean (General Education course for non-majors)
 
 
 ### Guest Lectures
-- Answering biological questions using circular data and analysis in R, developed and taught with Dr. Kate Thomas, for Bio 304 with Dr. Tom Mitchell Olds
+- _Answering biological questions using circular data and analysis in R_, developed and taught with Dr. Kate Thomas, for Biological Data Analysis (Bio 304) at Duke University, with Dr. Tom Mitchell Olds
   - [Online lesson plan](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/FullLesson.html#data_exploration_2:_testing_for_visual_orientation_in_cockeyed_squids)
   - [Announcement from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
-- Future Directions in the Whole Body Eye of Sea Urchins, for Marine Invertebrate Zoology at Friday Harbor Laboratories, University of Washington, with Drs. Gustav Paulay and Peter Funch
+- _Future Directions in the Whole Body Eye of Sea Urchins_, for Marine Invertebrate Zoology at Friday Harbor Laboratories, University of Washington, with Drs. Gustav Paulay and Peter Funch
