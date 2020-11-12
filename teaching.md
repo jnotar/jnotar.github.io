@@ -34,7 +34,7 @@ cover-img: "urchin-cover1.jpg"
 
 
 ### Guest Lectures
-- _Answering biological questions using circular data and analysis in R_, developed and taught with Dr. Kate Thomas, for Biological Data Analysis (Bio 304) at Duke University, with Dr. Tom Mitchell Olds
-  - [Online lesson plan](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/FullLesson.html)
-  - [Announcement from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
-- _Future Directions in the Whole Body Eye of Sea Urchins_, for Marine Invertebrate Zoology at Friday Harbor Laboratories, University of Washington, with Drs. Gustav Paulay and Peter Funch
+- _Answering Biological Questions Using Circular Data and Analysis in R_, developed and taught with Dr. Kate Thomas, for Biological Data Analysis (Bio 304) at Duke University, with Dr. Tom Mitchell Olds (2018)
+  - [Online lesson plan and code](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/FullLesson.html)
+  - [Summary from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
+- _Future Directions in the Whole Body Eye of Sea Urchins_, for Marine Invertebrate Zoology at Friday Harbor Laboratories, University of Washington, with Drs. Gustav Paulay and Peter Funch (2017)
