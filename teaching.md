@@ -32,6 +32,7 @@ cover-img: "urchin-cover1.jpg"
 - Introduction to Ecology & Behavior  
 - Living Ocean (General Education for non-majors)
 
+
 ### Guest Lectures
 - Answering biological questions using circular data and analysis in R, developed and taught with Dr. Kate Thomas, for Bio 304 with Dr. Tom Mitchell Olds
   - [Online lesson plan](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/FullLesson.html#data_exploration_2:_testing_for_visual_orientation_in_cockeyed_squids)
