@@ -12,9 +12,9 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "google.com"
     - Learn markdown: "google.com"
-  Teaching: "teaching"
-  Side Projects: "sideprojects"
-    - Photography: "photography"
+  # Teaching: "teaching"
+  # Side Projects: "sideprojects"
+  #   - Photography: "photography"
 
 # --- Logo --- #
 
