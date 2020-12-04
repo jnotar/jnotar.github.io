@@ -13,7 +13,7 @@ navbar-links:
   #   - Beautiful Jekyll: "google.com"
   #   - Learn markdown: "google.com"
   Teaching: "teaching"
-  Side Projects: "sideprojects"
+  # Side Projects: "sideprojects"
   #   - Photography: "photography"
 
 # --- Logo --- #
