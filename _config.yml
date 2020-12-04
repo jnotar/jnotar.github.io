@@ -9,12 +9,12 @@ navbar-links:
   Research: "research"
   # CV: "cv-sample-test.pdf"
   Publications: "publications"
-  Side Projects:
-    - Beautiful Jekyll: "photography"
+  # Resources:
+  #   - Beautiful Jekyll: "google.com"
     # - Learn markdown: "google.com"
   Teaching: "teaching"
-  # Side Projects: "sideprojects"
-  #   - Photography: "photography"
+  Side Projects:
+    - Photography: "photography"
 
 # --- Logo --- #
 
