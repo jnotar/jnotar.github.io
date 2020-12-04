@@ -11,10 +11,10 @@ navbar-links:
   Publications: "publications"
   # Resources:
   #   - Beautiful Jekyll: "google.com"
-  # - Learn markdown: "google.com"
+  #   - Learn markdown: "google.com"
   Teaching: "teaching"
   Side Projects: "sideprojects"
-    - Photography: "photography"
+  #   - Photography: "photography"
 
 # --- Logo --- #
 
