@@ -14,9 +14,9 @@ navbar-links:
     # - Learn markdown: "google.com"
   Teaching: "teaching"
   Other Work:
-    - Photography: "photography"
     - Coding: "codeprojects"
-    - DEI Work: "dei" 
+    - DEI Work: "dei"
+    - Photography: "photography"
 
 # --- Logo --- #
 
