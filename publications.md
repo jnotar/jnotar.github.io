@@ -16,6 +16,8 @@ Gordon, MS and **Notar, JC.** (2015) Can systems biology help to separate evolut
 
 #### Diversity, Equity, Inclusion & Anti-Racism Publications
 
+_These publications come from collaborative work by the [Duke Biology IDEA Committee](https://sites.duke.edu/biodiversity/publications/)_
+
 Sosa, Karla; Noor, Mohamed A. F.; **Notar, Julia**; Eily, Ariana (2020): Some steps to create a more inclusive classroom environment. figshare. Online resource. [https://doi.org/10.6084/m9.figshare.13360559](https://doi.org/10.6084/m9.figshare.13360559)
 
 Sosa, Karla; **Notar, Julia**; Eily, Ariana (2020): Fostering open dialogue in the classroom. figshare. Online resource. [https://doi.org/10.6084/m9.figshare.13360547](https://doi.org/10.6084/m9.figshare.13360547)
