@@ -4,7 +4,7 @@ title: Publications
 cover-img: "urchin-cover1.jpg"
 ---
 
-#### Research Publications
+### Research Publications
 
 **Notar, JC**, Wong, K, and Gordon, MS. _(in prep)_ Visual Ecology of Three Species of Southern California Sea Urchin.
 
@@ -14,7 +14,7 @@ Gordon, MS and **Notar, JC.** (2015) Can systems biology help to separate evolut
 
 **[Google Scholar Profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)**
 
-#### Diversity, Equity, Inclusion & Anti-Racism Publications
+### Diversity, Equity, Inclusion & Anti-Racism Publications
 
 _These publications come from collaborative done with the [Duke Biology IDEA Committee](https://sites.duke.edu/biodiversity/publications/). See all of our committee's publications [here](https://sites.duke.edu/biodiversity/publications/)._
 
