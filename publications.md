@@ -14,7 +14,7 @@ Gordon, MS and **Notar, JC.** (2015) Can systems biology help to separate evolut
 
 [Google Scholar](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
 
-#### Diversity, Equity, Inclusion & Anti-Racism publications
+#### Diversity, Equity, Inclusion & Anti-Racism Publications
 
 Sosa, Karla; Noor, Mohamed A. F.; **Notar, Julia**; Eily, Ariana (2020): Some steps to create a more inclusive classroom environment. figshare. Online resource. [https://doi.org/10.6084/m9.figshare.13360559](https://doi.org/10.6084/m9.figshare.13360559)
 
