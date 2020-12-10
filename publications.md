@@ -12,7 +12,7 @@ Gordon, MS and **Notar, JC.** (2015) Can systems biology help to separate evolut
 
 **Notar, JC** and Gessow, J. (2009) Ecology of an intertidal leech: expanding the range of _Malmiana buthi_. Abstracts of the Annual Meeting of the Southern California Academy of Sciences. _Bulletin of the Southern California Academy of Sciences_ 108: 112. [doi.org/10.3160/0038-3872-108.2.89](https://doi.org/10.3160/0038-3872-108.2.89)
 
-**[Google Scholar](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)**
+**[Google Scholar Profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)**
 
 #### Diversity, Equity, Inclusion & Anti-Racism Publications
 
