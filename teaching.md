@@ -13,7 +13,7 @@ cover-img: "urchin-cover1.jpg"
 - **Schechtman Teaching Award for Outstanding Merit in Instruction and Service**  Department of Ecology and Evolutionary Biology, UCLA (2015)
 
 
-### Courses
+### Courses as a Teaching Assistant
 #### Graduate Courses
 - Advanced Experimental Statistics \*_Head TA_
 
