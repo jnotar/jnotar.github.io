@@ -9,7 +9,7 @@ cover-img: "urchin-cover1.jpg"
 - **Certificate in College Teaching Program**   Duke University (2019-Present)
 - **Teaching Associate/Assistant**  Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
 
-### Awards
+### Teaching Awards
 - **Schechtman Teaching Award for Outstanding Merit in Instruction and Service**  Department of Ecology and Evolutionary Biology, UCLA (2015)
 
 
