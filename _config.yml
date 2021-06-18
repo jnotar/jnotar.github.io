@@ -2,7 +2,7 @@ title: Julia Notar, MS
 description: Check out my work!
 #remote_theme: pmarsceill/just-the-docs
 #remote_theme: daattali/beautiful-jekyll
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 #remote_theme: jekyll/minima
 
 navbar-links:
