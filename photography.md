@@ -13,7 +13,7 @@ cover-img: "urchin-cover1.jpg"
 ![whitefish](photography_page/white_fish.jpg){:width="350px"}
 ![yshrimp](photography_page/yellow_shrimp.jpg){:width="350px"}
 
-![intakepipes](intakepipes.png){:width="702px"}
+![intakepipes](photography_page/intakepipes.png){:width="702px"}
 
 ![side](photography_page/urchin_side.jpg){:width="350px"}
 ![phronima](photography_page/phronima.png){:width="350px"}
