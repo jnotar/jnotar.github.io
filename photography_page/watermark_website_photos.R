@@ -10,3 +10,4 @@ library(extrafont)
 font_import()
 
 setwd("/Users/jnotar/Documents/Website/jnotar.github.io/photography_page/")
+
