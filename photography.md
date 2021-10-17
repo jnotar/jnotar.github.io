@@ -8,7 +8,7 @@ cover-img: "urchin-cover1.jpg"
 ![fish](photography_page/bw_fish.jpg){:width="350px"}
 ![chompy](photography_page/dragonfish.jpg){:width="350px"}
 
-![scuba](photography_page/scuba_selfie.JPG){:width="702px"}
+![scuba](photography_page/scuba_selfie_2.png){:width="702px"}
 
 ![whitefish](photography_page/white_fish.jpg){:width="350px"}
 ![yshrimp](photography_page/yellow_shrimp.jpg){:width="350px"}
