@@ -4,7 +4,7 @@ title: Research
 cover-img: "urchin-cover1.jpg"
 ---
 
-My current work incorporates approaches from the fields of animal behavior, comparative morphology, and phylogenetics to approach questions in sensory biology.
+My current work incorporates approaches from the fields of animal learning and behavior, comparative morphology, gene expression, and engineering to approach questions in sensory biology.
 
 #### Current Projects
 
