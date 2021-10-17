@@ -12,6 +12,8 @@ While I have had a lifelong interest in animals and the natural world, my profes
 
 You can email me at julia.notar (at) duke.edu
 
-[Twitter](https://twitter.com/indy_sea)
-[Johnsen lab website](https://opticsoflife.org/people/julia.html)
+[Twitter](https://twitter.com/indy_sea) |
+[Johnsen lab website](https://opticsoflife.org/people/julia.html) |
 [Google Scholar](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
+
+![collage](collage.jpg){:width="702px"}
