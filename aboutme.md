@@ -10,10 +10,9 @@ I consider myself a field Marine Biologist by training, with a specific interest
 
 While I have had a lifelong interest in animals and the natural world, my professional science training began at UCLA where I did my BS and MS in the Department of Ecology & Evolutionary Biology. I carried my interest and resarch with sea urchin vision from my Master's studies with [Dr. Malcolm S. Gordon](https://www.eeb.ucla.edu/indivfaculty/?faculty=Gordon) to my PhD work in [Dr. Sönke Johnsen's lab](https://opticsoflife.org) at Duke.
 
-You can email me at julia.notar (at) duke.edu
+![collage](collage.jpg){:width="702px"}
 
+You can email me at julia.notar (at) duke.edu <br>
 [Twitter](https://twitter.com/indy_sea) |
 [Johnsen lab website](https://opticsoflife.org/people/julia.html) |
 [Google Scholar](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
-
-![collage](collage.jpg){:width="702px"}
