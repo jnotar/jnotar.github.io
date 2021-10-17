@@ -4,7 +4,7 @@ title: About Me
 cover-img: "urchin-cover1.jpg"
 ---
 
-<img style="float: right; padding-left: 20px;" width="400" src="photography_page/scuba_selfie_2.png">
+<img style="float: right; padding-left: 20px;" width="400" src="/photography_page/scuba_selfie_2.png">
 
 I consider myself a field Marine Biologist by training, with a specific interest in invertebrates and their sensory worlds. My research integrates questions in sensory biology, physiology, and ecology with a functional, behavioral perspective. There are many fascinating physiological, neurobiological, and sensory processes happening in animals, and integrating knowledge of these processes with behavior can give us an excellent perspective on the consequences of such processes and behavior for individuals themselves as well as the populations, communities, and ecosystems they inhabit.
 
