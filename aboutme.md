@@ -15,4 +15,4 @@ You can email me at julia.notar (at) duke.edu <br>
 [Johnsen lab website](https://opticsoflife.org/people/julia.html) |
 [Google Scholar](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
 
-![collage](collage.jpg){:width="702px"}
+![catalina_garibaldi](catalina dive garibaldi.JPG){:width="702px"}
