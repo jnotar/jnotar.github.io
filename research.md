@@ -1,7 +1,7 @@
 ---
 title: Research
 # subtitle: What I'm up to
-cover-img: "urchin-cover1.jpg"
+cover-img: "palos_verdes_snorkeling.JPG"
 ---
 
 <img style="float: right; padding-left: 20px;" width="400" src="/urchin_benchwork.JPG">
