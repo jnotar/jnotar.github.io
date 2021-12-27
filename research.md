@@ -6,7 +6,7 @@ cover-img: "urchin-cover1.jpg"
 
 <img style="float: right; padding-left: 20px;" width="400" src="/urchin_benchwork.JPG">
 
-My current work incorporates approaches from the fields of animal learning and behavior, comparative morphology, gene expression, and engineering to approach questions in sensory biology.
+My current work incorporates approaches from the fields of animal learning and behavior, comparative morphology, physiology, and engineering to approach questions in sensory biology.
 
 #### Current Projects
 
