@@ -4,7 +4,6 @@ feature_image: "urchin-cover1.jpg"
 feature_text: |
   ## Julia Notar, M.S.
   ### Visual Ecology PhD Candidate
-layout: home
 ---
 
 <img style="float: right; padding-bottom: 20px;" src="/australia_kelp.JPG">
