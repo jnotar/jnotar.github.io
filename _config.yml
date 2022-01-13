@@ -47,6 +47,8 @@ navigation_header:
 - title: Other Work
   - title: Coding
     url: /codeprojects/
+  - title: DEI
+    url: /dei/
 
 # Footer nav
 navigation_footer:
