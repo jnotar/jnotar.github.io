@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Julia Notar, MS'
 description: 'Check out my work!'
 permalink: pretty
-logo: headshot.jpg
+#logo: headshot.jpg
 
 # Pagination
 paginate: 5
