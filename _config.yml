@@ -48,6 +48,8 @@ navigation_header:
   url: /codeprojects/
 - title: DEI
   url: /dei/
+- title: Photography
+  url: /photography/
 
 # Footer nav
 navigation_footer:
