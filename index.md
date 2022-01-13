@@ -1,9 +1,8 @@
 ---
-title: 'Julia Notar, MS'
-feature_image: "urchin-cover1.jpg"
-feature_text: |
-  ## Julia Notar, M.S.
-  ### Visual Ecology PhD Candidate
+title: Julia Notar
+subtitle: PhD Candidate in Visual Ecology
+cover-img: "urchin-cover1.jpg"
+#layout: home
 ---
 
 <img style="float: right; padding-bottom: 20px;" src="/australia_kelp.JPG">
