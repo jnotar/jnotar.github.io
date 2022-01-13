@@ -24,6 +24,7 @@ plugins:
 url: 'https://jnotar.github.io/'
 baseurl: ''
 title: 'Julia Notar, MS'
+subtitle: Vis Eco Phd
 description: 'Check out my work!'
 permalink: pretty
 #logo: headshot.jpg
