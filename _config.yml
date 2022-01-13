@@ -3,10 +3,9 @@ description: Check out my work!
 #remote_theme: pmarsceill/just-the-docs
 #remote_theme: daattali/beautiful-jekyll # this is one I used
   # no longer works, noticed 1/13/21
-#theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 #remote_theme: jekyll/minima
 #remote_theme: chrisbobbe/jekyll-theme-prologue
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 navbar-links:
   About Me: "aboutme"
