@@ -88,7 +88,7 @@ excerpt_length: 50
 
 # navbar-col: "#F5F5F5" # light grey
 # navbar-text-col: "#404040" # dark grey
-navbar-col: "#404040"
+navbar-col: "#333333"
 navbar-text-col: "#F5F5F5"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
