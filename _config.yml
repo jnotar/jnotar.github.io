@@ -35,11 +35,13 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /index
-- title: About
+  url: /old_index/
+- title: About Me
   url: /aboutme/
-- title: Blog
-  url: https://jnotar.github.io/aboutme
+- title: Research
+  url: /resarch/
+- title: Publications
+  url: /publications/
 
 # Footer nav
 navigation_footer:
