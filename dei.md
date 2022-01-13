@@ -1,6 +1,6 @@
 ---
 title: Diversity, Equity, & Inclusion Work
-feature_image: "urchin-cover1.jpg"
+cover-img: "urchin-cover1.jpg"
 ---
 
 <img style="float: right; padding-left: 20px;" width="200" src="/IDEA_logo.png">
