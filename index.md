@@ -1,6 +1,5 @@
 ---
-title: Julia Notar, MS
-subtitle: Visual Ecology PhD Candidate
+title: 'Julia Notar, MS'
 feature_image: "urchin-cover1.jpg"
 feature_text: |
   ## Visual Eco PHD Candidate
