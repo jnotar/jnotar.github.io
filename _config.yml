@@ -6,7 +6,7 @@ description: Check out my work!
 #theme: minimal-mistakes-jekyll
 #remote_theme: jekyll/minima
 #remote_theme: chrisbobbe/jekyll-theme-prologue
-remote_theme: alembic
+theme: alembic-jekyll-theme
 
 navbar-links:
   About Me: "aboutme"
