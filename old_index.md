@@ -2,7 +2,7 @@
 title: Julia Notar
 subtitle: PhD Candidate in Visual Ecology
 cover-img: "urchin-cover1.jpg"
-layout: home
+#layout: home
 ---
 
 <img style="float: right; padding-bottom: 20px;" src="/australia_kelp.JPG">
