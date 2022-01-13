@@ -1,5 +1,5 @@
 ---
-title: Diversity, Equity, & Inclusion Work
+title: Diversity, Equity, and Inclusion Work
 # subtitle:
 feature_image: "urchin-cover1.jpg"
 ---
