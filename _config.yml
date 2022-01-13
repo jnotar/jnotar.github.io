@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://jnotar.github.io'
+url: 'https://jnotar.github.io/index/'
 baseurl: ''
 title: 'Julia Notar, MS'
 description: 'Check out my work!'
