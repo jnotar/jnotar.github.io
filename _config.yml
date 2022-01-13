@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://jnotar.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Julia Notar, MS'
+description: 'Check out my work!'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -39,7 +39,7 @@ navigation_header:
 - title: About
   url: /aboutme/
 - title: Blog
-  url: /blog/
+  url: https://jnotar.github.io/aboutme
 
 # Footer nav
 navigation_footer:
