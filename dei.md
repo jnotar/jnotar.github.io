@@ -1,7 +1,8 @@
 ---
 title: Diversity, Equity, & Inclusion Work
-# subtitle:
-feature_image: 'urchin-cover1.jpg'
+feature_image: "urchin-cover1.jpg"
+feature_text: |
+  ## DEI
 ---
 
 <img style="float: right; padding-left: 20px;" width="200" src="/IDEA_logo.png">
