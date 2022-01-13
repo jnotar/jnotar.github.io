@@ -42,6 +42,11 @@ navigation_header:
   url: /resarch/
 - title: Publications
   url: /publications/
+- title: Teaching
+  url: /teaching/
+- title: Other Work
+  - title: Coding
+    url: /codeprojects/
 
 # Footer nav
 navigation_footer:
