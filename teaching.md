@@ -7,6 +7,7 @@ cover-img: "urchin-cover1.jpg"
 ### Teaching Experience
 
 - **Certificate in College Teaching Program**   Duke University (2019-Present)
+- **Teaching Assistant** Department of Biology, Duke University (2022)
 - **Teaching Associate/Assistant**  Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
 
 ### Teaching Awards
