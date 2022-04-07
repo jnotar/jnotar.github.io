@@ -30,6 +30,7 @@ cover-img: "urchin-cover1.jpg"
 
 #### Introductory Level Courses
 - Introduction to Ecology & Behavior  
+- Genetics & Evolution
 - Living Ocean (General Education course for non-majors)
 
 
