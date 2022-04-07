@@ -6,7 +6,7 @@ cover-img: "urchin-cover1.jpg"
 
 ### Research Publications
 
-**Notar, JC**, Meja, M, and Johnsen, S. _(in review)_ A Living Shag Rug: Sea Urchin Spine Density Differences in the Context of Phylogeny and Ecology.
+**Notar, JC**, Meja, B, and Johnsen, S. _(in review)_ A Living Shag Rug: Sea Urchin Spine Density Differences in the Context of Phylogeny and Ecology.
 
 **Notar, JC**, Wong, K, and Gordon, MS. _(in prep)_ Visual Ecology of Three Species of Southern California Sea Urchin.
 
