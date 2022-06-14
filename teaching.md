@@ -40,9 +40,9 @@ cover-img: "urchin-cover1.jpg"
 
 ### Developed Courses
 - _Natural History: Drawing Connections and Specimens in Biology_
-  - [Syllabus]("NHCSyllabus_03_07_21.pdf")
+  - [Syllabus](NHCSyllabus_03_07_21.pdf)
+  - [Course Announcement Flyer](Flyer1.jpg)
   - This is a course for non-majors to learn about Biology through the lens of Natural History, as well as how our historical and current understandings of Natural History influence the world around us. The class pairs lectures on fundamental concepts in Biology, Evolution, and Ecology with lectures on how these topics intersect with our daily lives and society, as well as the practice of drawing natural history specimens. Biologists, historical and contemporary, use careful observation to formulate hypotheses and understand the natural world. Drawing practice in this course will introduce students to the skill of biological observation, giving students training in how to look at the natural and social world around them with a careful eye.
-  - ![NHflyer](Flyer1.jpg){:width="450px"}
 
 ## Teaching Statement & Philosophy
 
