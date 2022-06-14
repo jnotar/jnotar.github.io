@@ -16,9 +16,7 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "google.com"
     # - Learn markdown: "google.com"
-  Teaching:
-    - Teaching Statement: "teaching-statement"
-    - Teaching Experience: "teaching"
+  Teaching: "teaching"
   Other Work:
     - Coding: "codeprojects"
     - DEI Work: "dei"
