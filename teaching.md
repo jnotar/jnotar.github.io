@@ -4,40 +4,39 @@ title: Teaching
 cover-img: "urchin-cover1.jpg"
 ---
 
-### Teaching Experience
+## Teaching Experience
 
 - **Certificate in College Teaching Program**   Duke University (2019-Present)
 - **Teaching Assistant** Department of Biology, Duke University (2022)
 - **Teaching Associate/Assistant**  Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
 
-#### Courses as a Teaching Assistant
-##### Graduate Courses
+### Courses as a Teaching Assistant
+#### Graduate Courses
 - Advanced Experimental Statistics \*_Head TA_
 
-##### Field Courses
+#### Field Courses
 - Experimental Marine Invertebrate Biology
 - Field Marine Ecology  
 - Biology of Marine Tetrapods
 
-##### Upper Level Courses
+#### Upper Level Courses
 - Animal Environmental Physiology \*_Head TA_
 - Biology of Vertebrates \*_Head TA_
 - Biology of Invertebrates \*_Head TA_
 
-##### Introductory Level Courses
+#### Introductory Level Courses
 - Introduction to Ecology & Behavior  
 - Genetics & Evolution
 - Living Ocean (General Education course for non-majors)
 
-#### Guest Lectures
+### Guest Lectures
 - _Answering Biological Questions Using Circular Data and Analysis in R_, developed and taught with Dr. Kate Thomas, for Biological Data Analysis (Bio 304) at Duke University, with Dr. Tom Mitchell-Olds (Spring 2018)
   - [Online lesson plan and code](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/FullLesson.html)
   - [Summary from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
 - _Future Directions in the Whole Body Eye of Sea Urchins_, for Marine Invertebrate Zoology at Friday Harbor Laboratories, University of Washington, with Drs. Gustav Paulay and Peter Funch (Summer 2017)
 
-#### Teaching Awards
+### Teaching Awards
 - **Schechtman Teaching Award for Outstanding Merit in Instruction and Service**  Department of Ecology and Evolutionary Biology, UCLA (2015)
-
 
 ### Developed Courses
 - _Natural History: Drawing Connections and Specimens in Biology_
@@ -46,7 +45,7 @@ cover-img: "urchin-cover1.jpg"
 
 ![NHflyer](Flyer1.jpg){:width="450px"}
 
-### Teaching Statement & Philosophy
+## Teaching Statement & Philosophy
 
 I strive to meet the intellectual and emotional needs of students in order to promote their learning, development of classroom and life skills, and engagement outside of class. I do this mainly by trying to achieve four goals: increasing learning, creating a positive classroom experience, supporting students beyond the classroom, and improving my own teaching methods.
 
