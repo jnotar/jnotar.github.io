@@ -6,7 +6,7 @@ cover-img: "urchin-cover1.jpg"
 
 ### Research Publications
 
-**Notar, JC**, Meja, B, and Johnsen, S. _(in review)_ A Living Shag Rug: Sea Urchin Spine Density Differences in the Context of Phylogeny and Ecology.
+**Notar, JC**, Meja, B, and Johnsen, S. _(in review)_ Testing Mechanisms of Vision: Sea Urchin Spine Density does not Correlate with Vision-Related Environmental Characteristics.
 
 Gordon, MS and **Notar, JC.** (2015) Can systems biology help to separate evolutionary analogies (convergent homoplasies) from homologies? _Progress in Biophysics and Molecular Biology_ 117: 19-29. [doi.org/10.1016/j.pbiomolbio.2015.01.005](https://doi.org/10.1016/j.pbiomolbio.2015.01.005)
 
