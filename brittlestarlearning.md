@@ -1,5 +1,5 @@
 ---
-title: Classical Conditioning in _Ophiocoma echinata_
+title: Classical Conditioning in <i>Ophiocoma echinata</i>
 # subtitle:
 cover-img: "urchin-cover1.jpg"
 ---
