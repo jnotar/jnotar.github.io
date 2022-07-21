@@ -16,7 +16,7 @@ _Animal Behavior Society Annual Meeting 2022_
 + [Video 2 - Phase II, Training (side view)](https://drive.google.com/file/d/1hv-ghzmD1RkSM7M38uhp1fSrJARabFUc/view?usp=sharing)
   + Trained animals receiving training. They are fed at the very start of the Dark Period.
 + [Video 3 - Phase III, Training & Testing (above view)](https://drive.google.com/file/d/1TRzsjfaryJMMs0usAEqYzG_qRPDKqLyN/view?usp=sharing)
-  + Trained animals emerging in dark period, without food present. They are then fed 15 min into the dark period.
+  + Trained animals emerging in Dark Period, without food present. They are then fed 15 min into the Dark Period.
 
 #### Abstract
 
