@@ -10,7 +10,8 @@ remote_theme: daattali/beautiful-jekyll # this is one I used
 
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
+  Research:
+    - Research Projects: "research"
     - ABS 2022: "brittlestarlearning"
   CV: "CV.pdf"
   Publications: "publications"
