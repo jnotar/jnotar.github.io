@@ -6,11 +6,17 @@ cover-img: "urchin-cover1.jpg"
 
 ### Classical Conditioning in an Animal Without a Brain, the Brittle Star _Ophiocoma echinata_
 Julia C. Notar, Madeline C. Go, Sönke Johnsen
-Animal Behavior Society Meeting 2022
+
+_Animal Behavior Society Annual Meeting 2022_
+
+#### Videos from talk
 
 + [Video 1 - Phase I, Control](https://drive.google.com/file/d/1BdepLeiv8twff2DqwZiK5MdKE0uO0hbf/view?usp=sharing)
+  + Trained animals fed during the Control Period.
 + [Video 2 - Phase II, Training](https://drive.google.com/file/d/1hv-ghzmD1RkSM7M38uhp1fSrJARabFUc/view?usp=sharing)
+  + Trained animals fed at the start of the Dark Period.
 + [Video 3 - Phase III, Training & Testing](https://drive.google.com/file/d/1TRzsjfaryJMMs0usAEqYzG_qRPDKqLyN/view?usp=sharing)
+  + Trained animals emerge in dark, without food. They are then fed 15 min into the dark period.
 
 #### Abstract
 
