@@ -10,7 +10,7 @@ This is a lesson on circular data that Dr. Kate Thomas and I developed and taugh
   - [Summary from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
 
 #### _Magnetic Field Calculator_
-Calculator to determine the magnetic field based off of north (x), east (y), and vertical (z) components, as reported by a magnetometer.
+Calculator to determine the magnetic field based off of north (x), east (y), and vertical (z) components, as reported from a magnetometer.
 - [Try it out here](https://jnotar.shinyapps.io/magnetic-calculator/)
 
 #### "_COVID-19 Calculator_"
