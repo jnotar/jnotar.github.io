@@ -9,6 +9,10 @@ This is a lesson on circular data that Dr. Kate Thomas and I developed and taugh
   - [Online lesson plan and code](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/FullLesson.html)
   - [Summary from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
 
+#### _Magnetic Field Calculator_
+Calculator to determine the magnetic field based off of north (x), east (y), and vertical (z) components, as reported by a magnetometer.
+- [Try it out here](https://jnotar.shinyapps.io/magnetic-calculator/)
+
 #### "_COVID-19 Calculator_"
 This is a shiny app I built in March 2020 to showcase my cousin's [spreadsheet calculator](https://docs.google.com/spreadsheets/d/19o7CnjXaSMWzbz-FuqmczUNu44fFkVm0TLzSSzJM6pk/edit?fbclid=IwAR2Q6JaYiO0e9cNZnCdqSVBIfvJV_4-Oe5H5yeMEuqkkXjVTUThJfOlwOWI#gid=0), which he wrote at the start of the COVID-19 pandemic to encourage people to take social distancing and other precautions seriously.
-  - [Try out the shiny app here](https://jnotar.shinyapps.io/covid-app/)
+  - [Try out the shiny app here](https://jnotar.shinyapps.io/covid-app/) (cw: discussion of fatalities related to COVID-19)
