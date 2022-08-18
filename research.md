@@ -10,7 +10,7 @@ My current work incorporates approaches from the fields of animal learning and b
 
 #### Current Projects
 
-1. Trends in spine density & visual acuity across sea urchin species
+1. [Trends in spine density & visual acuity across sea urchin species](https://doi.org/10.1093/icb/icac119)
 2. Light sensitivity across the urchin body
 3. [Learning in brittle stars](https://jnotar.github.io/brittlestarlearning/)
 4. Echinoder-Bot-a: A sea urchin-inspired camera
