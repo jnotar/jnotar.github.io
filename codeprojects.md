@@ -11,7 +11,7 @@ This is a lesson on circular data that Dr. Kate Thomas and I developed and taugh
 
 #### _Magnetic Field Calculator_
 Calculator to determine the magnetic field based off of north (x), east (y), and vertical (z) components, as reported from a magnetometer.
-- [Try it out here](https://jnotar.shinyapps.io/magnetic-calculator/)
+- [Try out the shiny app here](https://jnotar.shinyapps.io/magnetic-calculator/) (works on mobile and desktop)
 
 #### "_COVID-19 Calculator_"
 This is a shiny app I built in March 2020 to showcase my cousin's [spreadsheet calculator](https://docs.google.com/spreadsheets/d/19o7CnjXaSMWzbz-FuqmczUNu44fFkVm0TLzSSzJM6pk/edit?fbclid=IwAR2Q6JaYiO0e9cNZnCdqSVBIfvJV_4-Oe5H5yeMEuqkkXjVTUThJfOlwOWI#gid=0), which he wrote at the start of the COVID-19 pandemic to encourage people to take social distancing and other precautions seriously.
