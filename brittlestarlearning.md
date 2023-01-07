@@ -4,7 +4,7 @@ title: Brittle Star Learning
 cover-img: "urchin-cover1.jpg"
 ---
 
-### Learning with a decentralized nervous system in the brittle star _Ophiocoma echinata_
+### No Brain? No Problem! Brittle Stars Are Capable of Associative Learning
 Julia C. Notar, Madeline C. Go, Sönke Johnsen
 
 #### Videos from talk
@@ -18,4 +18,4 @@ Julia C. Notar, Madeline C. Go, Sönke Johnsen
 
 #### Abstract
 
-Like other members of Phylum Echinodermata, ophiuroids are marine invertebrates that lack centralized nervous systems. They have five radially arranged ganglia joined by a central nerve ring. While operant and classical conditioning have been demonstrated in sea stars (Class Asteroidea) in a limited number of studies, members of the other echinoderm classes remain relatively untested. Here, we tested whether individuals of the ophiuroid species Ophiocoma echinata were able to learn an association between a period of darkness and the presentation of a food reward. An experimental group was trained by presenting food during a period of darkness, while control group animals were fed under regular daytime room lights many hours after the period of darkness. After the training period, the experimental group demonstrated they had learned to associate the two cues by regularly emerging during the dark period even when no food was presented. The untrained control animals, as well as pre-training experimental animals, did not emerge during the dark periods when no food was presented. This study shows that classical conditioning is possible in a new class of animals that lack centralized nervous systems.
+There has been a recent growth in interest in the processes governing the coordination and control of locomotion in the decentralized nervous systems of echinoderms, yet our understanding of echinoderm behavior and learning remains poor. In this study we tested whether brittle stars (Class Ophiuroidea) were capable of learning to associate two cues: a short period of darkness and the presentation of a food cue. Individually housed Ophiocoma echinata were separated into experimental (trained) and control (untrained) groups. Animals in the experimental group were trained by presenting food during a short period of darkness, while control group animals were fed under regular daytime room lights many hours after the period of darkness. After the training period, the experimental group demonstrated they had learned to associate the two cues by regularly emerging during the dark period even when no food was presented. In comparison, control animals did not spontaneously emerge during the dark period (p = 0.0007). This shows that an ophiuroid species is capable of more advanced neural processing tasks than previously appreciated.
