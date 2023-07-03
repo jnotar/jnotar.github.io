@@ -6,7 +6,7 @@ cover-img: "urchin-cover1.jpg"
 
 ### Research Publications
 
-**Notar, JC**, Go, M, and Johnsen, S. (in review) Learning without a brain: Classical conditioning in the ophiuroid <i>Ophiocoma echinata</i>.
+**Notar, JC**, Go, M, and Johnsen, S. (in review) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_.
 
 **Notar, JC**, Meja, B, and Johnsen, S. (2022). Testing Mechanisms of Vision: Sea Urchin Spine Density Does Not Correlate with Vision-Related Environmental Characteristics. _Integrative and Comparative Biology_, icac119, [doi.org/10.1093/icb/icac119](https://doi.org/10.1093/icb/icac119)
 
@@ -18,7 +18,7 @@ Gordon, MS and **Notar, JC**. (2015). Can systems biology help to separate evolu
 
 ### Diversity, Equity, Inclusion & Anti-Racism Publications
 
-_These publications come from collaborative work done as a member of the [Duke Biology IDEA Committee](https://jnotar.github.io/dei/). See all of the committee's publications [here](https://sites.duke.edu/biodiversity/publications/)._
+_These publications come from collaborative work done as a [member of the Duke Biology IDEA Committee](https://jnotar.github.io/dei/). See all of the committee's publications [here](https://sites.duke.edu/biodiversity/publications/)._
 
 Sosa, K, Noor, MAF, **Notar, JC**, and Eily, A. (2020). Some steps to create a more inclusive classroom environment. _figshare_. Online resource. [doi.org/10.6084/m9.figshare.13360559](https://doi.org/10.6084/m9.figshare.13360559)
 
