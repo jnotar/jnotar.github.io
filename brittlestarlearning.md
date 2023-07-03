@@ -6,6 +6,7 @@ cover-img: "urchin-cover1.jpg"
 
 ### No Brain? No Problem! Brittle Stars Are Capable of Associative Learning
 Julia C. Notar, Madeline C. Go, Sönke Johnsen
+
 _Presented at the 2023 Society for Integrative and Comparative Biology Annual Meeting, Austin, TX_
 
 #### Videos from talk
