@@ -6,7 +6,7 @@ cover-img: "urchin-cover1.jpg"
 
 ### Research Publications
 
-**Notar, JC**, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_. _Behavioral Ecology and Sociobiology_, 77:126, [https://doi.org/10.1007/s00265-023-03402-x](https://doi.org/10.1007/s00265-023-03402-x)
+**Notar, JC**, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_. _Behavioral Ecology and Sociobiology_, 77:126, [https://doi.org/10.1007/s00265-023-03402-x](https://doi.org/10.1007/s00265-023-03402-x) _**Read for free here:** [https://rdcu.be/drHJO](https://rdcu.be/drHJO)_
 
 **Notar, JC**, Meja, B, and Johnsen, S. (2022). Testing Mechanisms of Vision: Sea Urchin Spine Density Does Not Correlate with Vision-Related Environmental Characteristics. _Integrative and Comparative Biology_, icac119, [doi.org/10.1093/icb/icac119](https://doi.org/10.1093/icb/icac119)
 
