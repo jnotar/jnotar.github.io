@@ -24,3 +24,4 @@ There has been a recent growth in interest in the processes governing the coordi
 
 _This study is now published in Behavioral Ecology and Sociobiology_
 **Notar, JC**, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_. _Behavioral Ecology and Sociobiology_, 77:126, [https://doi.org/10.1007/s00265-023-03402-x](https://doi.org/10.1007/s00265-023-03402-x)
+_Read for free here: [https://rdcu.be/duUvx](https://rdcu.be/duUvx)_
