@@ -17,7 +17,7 @@ Gordon, MS and **Notar, JC**. (2015). Can systems biology help to separate evolu
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
 
-### Media Coverage
+#### Media Coverage
 
 [Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774) by Annie Melchor, The Transmitter
 
