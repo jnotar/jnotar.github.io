@@ -17,6 +17,10 @@ Gordon, MS and **Notar, JC**. (2015). Can systems biology help to separate evolu
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
 
+### Media Coverage
+
+[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774) by Annie Melchor, The Transmitter
+
 ### Diversity, Equity, Inclusion & Anti-Racism Publications
 
 _These publications come from collaborative work done as a [member of the Duke Biology IDEA Committee](https://jnotar.github.io/dei/). See all of the committee's publications [here](https://sites.duke.edu/biodiversity/publications/)._
@@ -28,7 +32,3 @@ Sosa, K, **Notar, JC**, and Eily, A. (2020). Fostering open dialogue in the clas
 Sosa, K, Quarles, BB, **Notar, JC**, Gartner, V, Simha, A, Allen, R, and Carley, LN. (2020). Duke Biology IDEA Actions for Racial Equity Demands. _figshare_. Online resource. [doi.org/10.6084/m9.figshare.13003181](https://doi.org/10.6084/m9.figshare.13003181)
 
 Sosa, K, Quarles, BB, **Notar, JC**, Gartner, V, Simha, A, Allen, R, and Carley, LN. (2020). Duke Biology IDEA Anti-Racism in Science Initiative. _figshare_. Online resource. [doi.org/10.6084/m9.figshare.13003163](https://doi.org/10.6084/m9.figshare.13003163)
-
-### Media Coverage
-
-[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774) /[Annie Melchor, The Transmitter]
