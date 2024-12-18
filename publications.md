@@ -19,7 +19,7 @@ Gordon, MS and **Notar, JC**. (2015). Can systems biology help to separate evolu
 
 #### Media Coverage
 
-[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774) by Annie Melchor, The Transmitter
+_[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774)_ by Annie Melchor, The Transmitter
 
 ### Diversity, Equity, Inclusion & Anti-Racism Publications
 
