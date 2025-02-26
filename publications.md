@@ -10,7 +10,11 @@ cover-img: "urchin-cover1.jpg"
 <br>_Read for free here: [https://rdcu.be/duUvx](https://rdcu.be/duUvx)_
 
 - **Media Coverage:**
-- _[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774)_ by Annie Melchor, The Transmitter
+- _[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774)_ /[The Transmitter]
+- _[Biologists Find Brainless Brittle Stars Can Learn—But We 'Don't Know' How](https://www.newsweek.com/biologist-brainless-brittle-stars-can-learn-1848262)_ /[Newsweek]
+- _[No brain, no problem. Brittle stars can still learn through experience](https://www.zmescience.com/science/no-brain-no-problem-brittle-stars-can-still-learn-through-experience/)_ /[ZME Science]
+- _[This Animal Has No Head Or Brain But Can Still Learn](https://www.iflscience.com/this-animal-has-no-head-or-brain-but-can-still-learn-71792)_ /[IFLScience]
+- _[Brittle stars have no brain but still manage to learn](https://www.earth.com/news/brittle-stars-have-no-brain-but-still-manage-to-learn/)_ /[Earth.com]
 
 **Notar, JC**, Meja, B, and Johnsen, S. (2022). Testing Mechanisms of Vision: Sea Urchin Spine Density Does Not Correlate with Vision-Related Environmental Characteristics. _Integrative and Comparative Biology_, icac119, [doi.org/10.1093/icb/icac119](https://doi.org/10.1093/icb/icac119)
 
