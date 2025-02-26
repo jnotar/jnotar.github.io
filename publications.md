@@ -18,14 +18,6 @@ Gordon, MS and **Notar, JC**. (2015). Can systems biology help to separate evolu
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
 
-#### Media Coverage
-
-- _[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774)_ [The Transmitter]
-- _[Biologists Find Brainless Brittle Stars Can Learn—But We 'Don't Know' How](https://www.newsweek.com/biologist-brainless-brittle-stars-can-learn-1848262)_ [Newsweek]
-- _[No brain, no problem. Brittle stars can still learn through experience](https://www.zmescience.com/science/no-brain-no-problem-brittle-stars-can-still-learn-through-experience/)_ [ZME Science]
-- _[This Animal Has No Head Or Brain But Can Still Learn](https://www.iflscience.com/this-animal-has-no-head-or-brain-but-can-still-learn-71792)_ [IFLScience]
-- _[Brittle stars have no brain but still manage to learn](https://www.earth.com/news/brittle-stars-have-no-brain-but-still-manage-to-learn/)_ [Earth.com]
-
 ### Diversity, Equity, Inclusion & Anti-Racism Publications
 
 _These publications come from collaborative work done as a [member of the Duke Biology IDEA Committee](https://jnotar.github.io/dei/). See all of the committee's publications [here](https://sites.duke.edu/biodiversity/publications/)._
