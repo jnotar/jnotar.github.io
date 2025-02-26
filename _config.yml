@@ -10,11 +10,10 @@ remote_theme: daattali/beautiful-jekyll # this is one I used
 
 navbar-links:
   About Me: "aboutme"
-  Research:
-    - Research Projects: "research"
+  Research: "research"
   CV: "CV.pdf"
   Publications:
-    - Published works: "publications"
+    - Published Work: "publications"
     - Media Coverage: "mediacoverage"
   # Resources:
   #   - Beautiful Jekyll: "google.com"
