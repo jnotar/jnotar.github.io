@@ -12,9 +12,10 @@ navbar-links:
   About Me: "aboutme"
   Research:
     - Research Projects: "research"
-    - Brittle Star Learning: "brittlestarlearning"
   CV: "CV.pdf"
-  Publications: "publications"
+  Publications:
+    - Published works: "publications"
+    - Media Coverage: "mediacoverage"
   # Resources:
   #   - Beautiful Jekyll: "google.com"
     # - Learn markdown: "google.com"
