@@ -7,8 +7,8 @@ cover-img: "urchin-cover1.jpg"
 ### Research Publications
 
 **Notar, JC**, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_. _Behavioral Ecology and Sociobiology_, 77:126, [doi.org/10.1007/s00265-023-03402-x](https://doi.org/10.1007/s00265-023-03402-x)
-<br>•_Read for free here: [https://rdcu.be/duUvx](https://rdcu.be/duUvx)_
-<br>•Media Coverage: [Newsweek](https://www.newsweek.com/biologist-brainless-brittle-stars-can-learn-1848262), [The Transmitter](https://doi.org/10.53053/XHGL2774), [ZME Science](https://www.zmescience.com/science/no-brain-no-problem-brittle-stars-can-still-learn-through-experience/), [Earth.com](https://www.earth.com/news/brittle-stars-have-no-brain-but-still-manage-to-learn/), [IFLScience](https://www.iflscience.com/this-animal-has-no-head-or-brain-but-can-still-learn-71792)
+<br>•  _Read for free here: [https://rdcu.be/duUvx](https://rdcu.be/duUvx)_
+<br>•  Media Coverage: [Newsweek](https://www.newsweek.com/biologist-brainless-brittle-stars-can-learn-1848262), [The Transmitter](https://doi.org/10.53053/XHGL2774), [ZME Science](https://www.zmescience.com/science/no-brain-no-problem-brittle-stars-can-still-learn-through-experience/), [Earth.com](https://www.earth.com/news/brittle-stars-have-no-brain-but-still-manage-to-learn/), [IFLScience](https://www.iflscience.com/this-animal-has-no-head-or-brain-but-can-still-learn-71792)
 
 **Notar, JC**, Meja, B, and Johnsen, S. (2022). Testing Mechanisms of Vision: Sea Urchin Spine Density Does Not Correlate with Vision-Related Environmental Characteristics. _Integrative and Comparative Biology_, icac119, [doi.org/10.1093/icb/icac119](https://doi.org/10.1093/icb/icac119)
 
