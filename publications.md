@@ -7,7 +7,7 @@ cover-img: "urchin-cover1.jpg"
 ### Research Publications
 
 **Notar, JC**, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_. _Behavioral Ecology and Sociobiology_, 77:126, [doi.org/10.1007/s00265-023-03402-x](https://doi.org/10.1007/s00265-023-03402-x)
-<br>•  _Read for free here: [https://rdcu.be/duUvx](https://rdcu.be/duUvx)_
+<br>•  [Read for free here](https://rdcu.be/duUvx)
 <br>•  Media Coverage: [Newsweek](https://www.newsweek.com/biologist-brainless-brittle-stars-can-learn-1848262), [The Transmitter](https://doi.org/10.53053/XHGL2774), [ZME Science](https://www.zmescience.com/science/no-brain-no-problem-brittle-stars-can-still-learn-through-experience/), [Earth.com](https://www.earth.com/news/brittle-stars-have-no-brain-but-still-manage-to-learn/), [IFLScience](https://www.iflscience.com/this-animal-has-no-head-or-brain-but-can-still-learn-71792)
 
 **Notar, JC**, Meja, B, and Johnsen, S. (2022). Testing Mechanisms of Vision: Sea Urchin Spine Density Does Not Correlate with Vision-Related Environmental Characteristics. _Integrative and Comparative Biology_, icac119, [doi.org/10.1093/icb/icac119](https://doi.org/10.1093/icb/icac119)
@@ -17,6 +17,7 @@ Gordon, MS and **Notar, JC**. (2015). Can systems biology help to separate evolu
 **Notar, JC** and Gessow, J. (2009). Ecology of an intertidal leech: expanding the range of _Malmiana buthi_. Abstracts of the Annual Meeting of the Southern California Academy of Sciences. _Bulletin of the Southern California Academy of Sciences_ 108: 112. [doi.org/10.3160/0038-3872-108.2.89](https://doi.org/10.3160/0038-3872-108.2.89)
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=eQlRnmEAAAAJ&hl=en&oi=ao)
+_If there are any publications you are having trouble getting access to, please feel free to reach out to me by email._
 
 ### Diversity, Equity, Inclusion & Anti-Racism Publications
 
