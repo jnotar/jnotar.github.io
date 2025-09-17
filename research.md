@@ -10,7 +10,12 @@ My current work incorporates approaches from the fields of animal learning and b
 
 #### Current Projects
 
+1. Comparing sea star eye growth and visual ecology across species
+2. Echinoder-Bot-a: A sea urchin-inspired camera
+
+#### Past Projects
+
 1. [Trends in spine density & visual acuity across sea urchin species](https://doi.org/10.1093/icb/icac119)
 2. Light sensitivity across the urchin body
 3. [Learning in brittle stars](https://jnotar.github.io/brittlestarlearning/)
-4. Echinoder-Bot-a: A sea urchin-inspired camera
+4. [Comparing the vision of three Southern California Sea Urchin species](https://www.proquest.com/docview/1834494751?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
