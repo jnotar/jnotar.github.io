@@ -12,3 +12,4 @@ Notar, JC, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical con
 - _[No brain, no problem. Brittle stars can still learn through experience](https://www.zmescience.com/science/no-brain-no-problem-brittle-stars-can-still-learn-through-experience/)_ [ZME Science]
 - _[This Animal Has No Head Or Brain But Can Still Learn](https://www.iflscience.com/this-animal-has-no-head-or-brain-but-can-still-learn-71792)_ [IFLScience]
 - _[Brittle stars have no brain but still manage to learn](https://www.earth.com/news/brittle-stars-have-no-brain-but-still-manage-to-learn/)_ [Earth.com]
+- _[Brittle Stars Can Learn Just Fine -- Even Without a Brain](https://today.duke.edu/2023/11/brittle-stars-can-learn-just-fine-even-without-brain)_ [Duke Today]

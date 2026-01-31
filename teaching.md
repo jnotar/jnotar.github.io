@@ -6,9 +6,10 @@ cover-img: "urchin-cover1.jpg"
 
 ## Teaching Experience
 
-- **Certificate in College Teaching Program**   Duke University (2019-2022)
+- **Visiting Scholar** Duke University (2025)
+- **Certificate in College Teaching Program**  Duke University (2019-2022)
 - **Teaching Assistant** Department of Biology, Duke University (2022)
-- **Teaching Associate/Assistant**  Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
+- **Teaching Associate/Assistant** Department of Ecology and Evolutionary Biology, Department of Integrative Biology and Physiology, UCLA (2012-16)
 
 ### Courses as a Teaching Assistant
 #### Graduate Courses
@@ -27,9 +28,12 @@ cover-img: "urchin-cover1.jpg"
 #### Introductory Level Courses
 - Introduction to Ecology & Behavior  
 - Genetics & Evolution
-- Living Ocean (General Education course for non-majors)
+
+#### General Education Courses for Non-majors
+- Living Ocean
 
 ### Guest Lectures
+- _Vision and Visual Ecology in Marine Invertebrates_, for Behavioral Ecology of Marine Invertebrates, Friday Harbor Laboratories, University of Washington; Prof. Mar Wohnam (Fall 2025)
 - _Answering Biological Questions Using Circular Data and Analysis in R_, developed and taught with Dr. Kate Thomas, for Biological Data Analysis (Bio 304) at Duke University, with Dr. Tom Mitchell-Olds (Spring 2018)
   - [Online lesson plan and code](https://bigdata.duke.edu/wp-content/uploads/2022/07/FullLesson.html)
   - [Summary from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
