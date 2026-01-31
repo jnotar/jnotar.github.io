@@ -1,6 +1,6 @@
 ---
 title: Julia Notar, PhD
-subtitle: Visual Ecologist | Postdoctoral Scholar
+subtitle: Postdoctoral Scholar | Friday Harbor Labs
 cover-img: "urchin-cover1.jpg"
 #layout: home
 ---
