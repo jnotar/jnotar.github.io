@@ -7,7 +7,7 @@ cover-img: "urchin-cover1.jpg"
 ### Press related to brittle star learning
 Notar, JC, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_. _Behavioral Ecology and Sociobiology_, 77:126, [doi.org/10.1007/s00265-023-03402-x](https://doi.org/10.1007/s00265-023-03402-x)
 
-<img style="float: right; padding-left: 20px;" width="300" src="/DiscoverMag_Summer2026.png">(https://www.discovermagazine.com/magazine/issue/countless-lifeforms-sense-remember-and-communicate-all-without-brains-51-3)
+[<img style="float: right; padding-left: 20px;" width="300" src="/DiscoverMag_Summer2026.png">](https://www.discovermagazine.com/magazine/issue/countless-lifeforms-sense-remember-and-communicate-all-without-brains-51-3)
 
 - _Brainless: Lifeforms without brains are giving humanity a lesson in what it means to learn_ [[Discover Magazine, Summer 2026 Print Issue, p. 58-64](https://www.discovermagazine.com/magazine/issue/countless-lifeforms-sense-remember-and-communicate-all-without-brains-51-3)]
 - _Cognition in brainless organisms is redefining what it means to learn_ [[The Transmitter](https://doi.org/10.53053/XHGL2774)]
