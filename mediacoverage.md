@@ -9,8 +9,8 @@ Notar, JC, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical con
 
 <img style="float: right; padding-left: 20px;" width="300" src="/DiscoverMag_Summer2026.png">
 
-- Brainless: Lifeforms without brains are giving humanity a lesson in what it means to learn [[Discover Magazine, Summer 2026 Print Issue, p. 58-64]](https://www.discovermagazine.com/magazine/issue/countless-lifeforms-sense-remember-and-communicate-all-without-brains-51-3)
-- Cognition in brainless organisms is redefining what it means to learn [[The Transmitter]](https://doi.org/10.53053/XHGL2774)
+- _Brainless: Lifeforms without brains are giving humanity a lesson in what it means to learn_ [[Discover Magazine, Summer 2026 Print Issue, p. 58-64](https://www.discovermagazine.com/magazine/issue/countless-lifeforms-sense-remember-and-communicate-all-without-brains-51-3)]
+- _Cognition in brainless organisms is redefining what it means to learn_ [[The Transmitter](https://doi.org/10.53053/XHGL2774)]
 - _[Biologists Find Brainless Brittle Stars Can Learn—But We 'Don't Know' How]_ [Newsweek](https://www.newsweek.com/biologist-brainless-brittle-stars-can-learn-1848262)
 - _[No brain, no problem. Brittle stars can still learn through experience]_ [ZME Science](https://www.zmescience.com/science/no-brain-no-problem-brittle-stars-can-still-learn-through-experience/)
 - _[This Animal Has No Head Or Brain But Can Still Learn]_ [IFLScience](https://www.iflscience.com/this-animal-has-no-head-or-brain-but-can-still-learn-71792)
