@@ -9,6 +9,7 @@ Notar, JC, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical con
 
 <img style="float: right; padding-left: 20px;" width="400" src="/DiscoverMag_Summer2026.png">
 
+- _[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774)_ [The Transmitter]
 - _[Brainless | Lifeforms without brains are giving humanity a lesson in what it means to learn](https://www.discovermagazine.com/magazine/issue/countless-lifeforms-sense-remember-and-communicate-all-without-brains-51-3)_ [Discover Magazine - Summer 2026 Print Edition, p. 58-64]
 - _[Cognition in brainless organisms is redefining what it means to learn](https://doi.org/10.53053/XHGL2774)_ [The Transmitter]
 - _[Biologists Find Brainless Brittle Stars Can Learn—But We 'Don't Know' How](https://www.newsweek.com/biologist-brainless-brittle-stars-can-learn-1848262)_ [Newsweek]
