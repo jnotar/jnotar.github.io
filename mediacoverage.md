@@ -4,6 +4,9 @@ title: Media Coverage
 cover-img: "urchin-cover1.jpg"
 ---
 
+### Popular science pieces I've written about my research
+- _Seeing Stars: Into the World of Echinoderm Vision_ [[Friday Harbor Labs Tide Bite Newsletter - August 2026](https://fhl.uw.edu/about/news-and-events/2026/07/22/tide-bite-august-2026/)]
+
 ### Press related to brittle star learning
 Notar, JC, Go, M, and Johnsen, S. (2023) Learning without a brain: Classical conditioning in the ophiuroid _Ophiocoma echinata_. _Behavioral Ecology and Sociobiology_, 77:126, [doi.org/10.1007/s00265-023-03402-x](https://doi.org/10.1007/s00265-023-03402-x)
 
