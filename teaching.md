@@ -35,7 +35,7 @@ cover-img: "urchin-cover1.jpg"
 ### Guest Lectures
 - _Vision and Visual Ecology in Marine Invertebrates_, for Behavioral Ecology of Marine Invertebrates, Friday Harbor Laboratories, University of Washington; Prof. Mar Wohnam (Fall 2025)
 - _Answering Biological Questions Using Circular Data and Analysis in R_, developed and taught with Dr. Kate Thomas, for Biological Data Analysis (Bio 304) at Duke University, with Dr. Tom Mitchell-Olds (Spring 2018)
-  - [Online lesson plan and code](https://bigdata.duke.edu/wp-content/uploads/2022/07/FullLesson.html)
+  - [Online lesson plan and code](CircularDataTutorial.html)
   - [Summary from Duke Data Expeditions](https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r)
 - _Future Directions in the Whole Body Eye of Sea Urchins_, for Marine Invertebrate Zoology at Friday Harbor Laboratories, University of Washington, with Drs. Gustav Paulay and Peter Funch (Summer 2017)
 
