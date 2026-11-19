@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head><script src="https://web-static.archive.org/_static/js/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app241.us.archive.org';v.server_ms=212;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=3grhEDQT" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r","20210814030543","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1628910343");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>Answering Biological Questions Using Circular Data and Analysis in R | Duke Rhodes Information Initiative at Duke</title>
+  <meta charset="utf-8"/>
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, width=device-width"/>
+<!-- TTS Nagios Verification -->
+<link rel="shortcut icon" href="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/all/themes/tts/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="MobileOptimized" content="width"/>
+<meta http-equiv="cleartype" content="on"/>
+<link rel="apple-touch-icon-precomposed" href="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/all/themes/tts/apple-touch-icon-precomposed-72x72.png" sizes="72x72"/>
+<link rel="apple-touch-icon-precomposed" href="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/all/themes/tts/apple-touch-icon-precomposed-114x114.png" sizes="114x114"/>
+<link rel="apple-touch-icon-precomposed" href="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/all/themes/tts/apple-touch-icon-precomposed-144x144.png" sizes="144x144"/>
+<link rel="apple-touch-icon-precomposed" href="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/all/themes/tts/apple-touch-icon-precomposed.png"/>
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)"/>
+<link rel="canonical" href="https://web.archive.org/web/20210814030543/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r"/>
+<link rel="shortlink" href="https://web.archive.org/web/20210814030543/https://bigdata.duke.edu/node/806"/>
+  <link rel="stylesheet" type="text/css" media="screen" href="https://web.archive.org/web/20210814030543cs_/https://alertbar.oit.duke.edu/sites/all/themes/blackwell/css/alert.css">
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210814030543cs_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/css/css_aJCjymwgRFmsBQtlx1IJjSgq1z-JcJ8DFOQg4v7G-GU.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210814030543cs_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/css/css_-TNq6F6EH1K3WcBMUMQP90OkyCq0Lyv1YnyoEj3kxiU.css" media="screen"/>
+<style media="print">#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210814030543cs_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/css/css_ZXsCtpwQ3-oOT1M132AQG9IgmlF-zWX6_Ac9s3rJOTs.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210814030543cs_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/css/css_2rp7Fcxs1qQiditT90_aVRFHELv2oCEyyVnRK451gTk.css" media="all"/>
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://bigdata.duke.edu/sites/bigdata.duke.edu/files/css/css_ckkFvl7YOeakF0O0EwtXNWATPtZZNdHWMfnfQ3LARik.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210814030543cs_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/css/css_pUTuF-U6kvdWUs69qNdMOINRsRWOcuTeHmrYgrHpV3M.css" media="all"/>
+  <script src="https://web.archive.org/web/20210814030543js_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/js/js_fFYJm-HDbmb4GmtzwmqrKTuBaPwl-wm7xu0xaAOZ_Ps.js"></script>
+<script src="https://web.archive.org/web/20210814030543js_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/js/js_oh8nuHB4czDmV7PVQDAYuuL3v2XSYqAOhY475LdYkhQ.js"></script>
+<script src="https://web.archive.org/web/20210814030543js_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/js/js_iL_oIm-jR5ToBS_iv22lghfWs32-scRRmSzhn8YVL10.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://bigdata.duke.edu/sites/bigdata.duke.edu/files/js/js_l1iEl-hY65c79QTBBcl2tmNsnQFuMrbhOOFZUO_dkyw.js"></script>
+<![endif]-->
+<script src="https://web.archive.org/web/20210814030543js_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/js/js_GYD8Y3oeXHHkSk5W3icQaoyp57NonnNhzUOeP0wY6Xs.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://web.archive.org/web/20210814030543/https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-50293424-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://web.archive.org/web/20210814030543js_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/js/js_mbmCmbtpgEFPwGbNmKe28gjz0nv13Oi8quu1dvT1QS8.js"></script>
+<script src="https://web.archive.org/web/20210814030543js_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/js/js_EboSFYOLGZcQAResf8pNwvOsF66ycaHilUGtD2g6Zn4.js"></script>
+<script>
+          Shadowbox.path = "/sites/all/libraries/shadowbox/";
+        </script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bigdata","theme_token":"Izsfophc_3RvcebmAuAKTjS3iArTlHyvke8FJwCDmso","jquery_version":"1.7","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/omega\/omega\/js\/no-js.js":1,"sites\/all\/libraries\/shadowbox\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/tts\/artistic_works_from_scholars_duke\/toggle.js":1,"sites\/all\/themes\/tts\/libraries\/html5shiv\/html5shiv.min.js":1,"sites\/all\/themes\/tts\/libraries\/html5shiv\/html5shiv-printshiv.min.js":1,"sites\/all\/themes\/tts\/libraries\/selectivizr\/selectivizr.min.js":1,"sites\/all\/themes\/tts\/libraries\/respond\/respond.min.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/modules\/mmenu\/js\/mmenu.js":1,"sites\/all\/libraries\/mmenu\/hammer\/hammer.js":1,"sites\/all\/libraries\/mmenu\/jquery.hammer\/jquery.hammer.js":1,"sites\/all\/libraries\/mmenu\/main\/src\/js\/jquery.mmenu.min.all.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/tts\/js\/tts.behaviors.js":1,"sites\/all\/themes\/tts\/libraries\/modernizr\/modernizr.min.js":1,"sites\/bigdata.duke.edu\/themes\/bigdata\/js\/theme.behaviors.js":1,"1":1},"css":{"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.base.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.menus.theme.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.messages.theme.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.theme.css":1,"sites\/all\/modules\/tts\/artistic_works_from_scholars_duke\/toggle.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/tts\/publications_from_scholars_duke\/style.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/field\/field.theme.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/search\/search.theme.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/user\/user.base.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/user\/user.theme.css":1,"sites\/all\/libraries\/shadowbox\/shadowbox.css":1,"0":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/themes\/tts\/panels\/main-content-2col\/main-content-2col.css":1,"sites\/all\/themes\/tts\/panels\/tts-theme-footer-5col\/tts-theme-footer-5col.css":1,"sites\/all\/libraries\/mmenu\/main\/src\/css\/jquery.mmenu.all.css":1,"sites\/all\/libraries\/mmenu\/icomoon\/icomoon.css":1,"sites\/all\/modules\/mmenu\/themes\/mm-basic\/styles\/mm-basic.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/tts\/css\/tts.normalize.css":1,"sites\/all\/themes\/tts\/css\/tts.hacks.css":1,"sites\/all\/themes\/tts\/css\/tts.styles.css":1,"sites\/bigdata.duke.edu\/themes\/bigdata\/css\/bigdata.hacks.css":1,"sites\/bigdata.duke.edu\/themes\/bigdata\/css\/bigdata.styles.css":1,"sites\/all\/themes\/tts\/css\/tts.no-query.css":1,"sites\/bigdata.duke.edu\/themes\/bigdata\/css\/bigdata.no-query.css":1,"all:0":1}},"shadowbox":{"animate":1,"animateFade":1,"animSequence":"sync","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":0,"counterLimit":"10","counterType":"default","displayCounter":1,"displayNav":1,"enableKeys":1,"fadeDuration":"0.35","handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":"0.85","resizeDuration":"0.35","showMovieControls":1,"slideshowDelay":"0","viewportPadding":100,"useSizzle":0},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:6d8213573d1871e3dcaa62093bcc5367":{"view_name":"research_projects","view_display_id":"block_5","view_args":"806","view_path":"node\/806","view_base_path":"data-plus-projects-report","view_dom_id":"6d8213573d1871e3dcaa62093bcc5367","pager_element":0},"views_dom_id:d661042f840936c9171928be186f3675":{"view_name":"research_projects","view_display_id":"block_3","view_args":"806","view_path":"node\/806","view_base_path":"data-plus-projects-report","view_dom_id":"d661042f840936c9171928be186f3675","pager_element":0},"views_dom_id:0bc51160e9738e06ae70506ffea0384b":{"view_name":"research_projects","view_display_id":"block_6","view_args":"806","view_path":"node\/806","view_base_path":"data-plus-projects-report","view_dom_id":"0bc51160e9738e06ae70506ffea0384b","pager_element":0},"views_dom_id:c183bf5e037b8e1f2cae544449397449":{"view_name":"video_views","view_display_id":"block_2","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"c183bf5e037b8e1f2cae544449397449","pager_element":0},"views_dom_id:7acf5c15072e2c91e44d51fca332d399":{"view_name":"research_projects","view_display_id":"block_2","view_args":"806\/358","view_path":"node\/806","view_base_path":"data-plus-projects-report","view_dom_id":"7acf5c15072e2c91e44d51fca332d399","pager_element":0},"views_dom_id:dbc6c4e5b9a37f2e193a44e6059c5c32":{"view_name":"photo_gallery_views","view_display_id":"basicpage_photos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"dbc6c4e5b9a37f2e193a44e6059c5c32","pager_element":0},"views_dom_id:06e1bfabb08b285f3f922c27d6654ef5":{"view_name":"video_views","view_display_id":"dukecalevent_videos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"06e1bfabb08b285f3f922c27d6654ef5","pager_element":0},"views_dom_id:1090c2099dff9565b986c3abfa40ea9f":{"view_name":"video_views","view_display_id":"event_videos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"1090c2099dff9565b986c3abfa40ea9f","pager_element":0},"views_dom_id:25d3818c39ce1b7b8015c544b042b66f":{"view_name":"video_views","view_display_id":"newsarticle_videos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"25d3818c39ce1b7b8015c544b042b66f","pager_element":0},"views_dom_id:69ed8d95587252bf53b37826a13356b3":{"view_name":"photo_gallery_views","view_display_id":"alumni_photos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"69ed8d95587252bf53b37826a13356b3","pager_element":0},"views_dom_id:dc94216fbd0f88fa676524a126cbcf09":{"view_name":"photo_gallery_views","view_display_id":"dukecalevent_photos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"dc94216fbd0f88fa676524a126cbcf09","pager_element":0},"views_dom_id:20a24f1aaa20ff61f4f3084730382b69":{"view_name":"photo_gallery_views","view_display_id":"event_photos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"20a24f1aaa20ff61f4f3084730382b69","pager_element":0},"views_dom_id:1506dd59a0eb665300ca818c62e0ceee":{"view_name":"photo_gallery_views","view_display_id":"newsarticle_photos_block","view_args":"806","view_path":"node\/806","view_base_path":null,"view_dom_id":"1506dd59a0eb665300ca818c62e0ceee","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/projects\/answering-biological-questions-using-circular-data-and-analysis-r":true},"mmenu":{"mmenu_left":{"enabled":"1","title":"Left menu","name":"mmenu_left","blocks":[{"module_delta":"search|form","menu_parameters":{"min_depth":"1"},"title":"\u003Cnone\u003E","collapsed":"0","wrap":"1","module":"search","delta":"form"},{"module_delta":"system|main-menu","menu_parameters":{"min_depth":"1"},"title":"\u003Cnone\u003E","collapsed":"0","wrap":"0","module":"system","delta":"main-menu"},{"module_delta":"menu|menu-header-menu","menu_parameters":{"min_depth":"1"},"title":"\u003Cnone\u003E","collapsed":"0","wrap":"1","module":"menu","delta":"menu-header-menu"}],"options":{"classes":"mm-basic","effects":[],"slidingSubmenus":false,"clickOpen":{"open":true,"selector":"a[id=hamburger]"},"counters":{"add":false,"update":false},"dragOpen":{"open":false,"pageNode":"body","threshold":100,"maxStartPos":50},"footer":{"add":false,"content":"","title":"","update":true},"header":{"add":false,"content":"","title":"TTS Reference Instance","update":true},"labels":{"collapse":false},"offCanvas":{"enabled":true,"modal":false,"moveBackground":true,"position":"left","zposition":"next"},"searchfield":{"add":false,"addTo":"menu","search":false,"placeholder":"Search","noResults":"No results found.","showLinksOnly":true}},"configurations":{"clone":false,"preventTabbing":false,"panelNodetype":"div, ul, ol","transitionDuration":400,"classNames":{"label":"Label","panel":"Panel","selected":"active-trail","buttonbars":{"buttonbar":"anchors"},"counters":{"counter":"Counter"},"fixedElements":{"fixedTop":"FixedTop","fixedBottom":"FixedBottom"},"footer":{"panelFooter":"Footer"},"header":{"panelHeader":"Header","panelNext":"Next","panelPrev":"Prev"},"labels":{"collapsed":"Collapsed"},"toggles":{"toggle":"Toggle","check":"Check"}},"dragOpen":{"width":{"perc":0.80000000000000004,"min":140,"max":440},"height":{"perc":0.80000000000000004,"min":140,"max":880}},"offCanvas":{"menuInjectMethod":"prepend","menuWrapperSelector":"body","pageNodetype":"div","pageSelector":"body \u003E div"}},"custom":[],"position":"left"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"delay":"600","animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"field_group":{"hidden":"full"}});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-806 node-type-research-projects section-projects"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;" toolbar-mode="auto">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20210814030543/https%3A//bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20210814030543" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20210814030543*/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r" title="See a list of every capture for this URL">7 captures</a>
+          <div class="r" title="Timespan for captures of this URL">23 Aug 2019 - 31 Jul 2024</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Jul</td>
+            <td class="c" id="displayMonthEl" title="You are here: 03:05:43 Aug 14, 2021">AUG</td>
+            <td class="f" nowrap="nowrap">Sep</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><span class="ta"></span></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 03:05:43 Aug 14, 2021">14</td>
+            <td class="f" nowrap="nowrap"><span class="ta"></span></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2020</td>
+            <td class="c" id="displayYearEl" title="You are here: 03:05:43 Aug 14, 2021">2021</td>
+            <td class="f" nowrap="nowrap">2022</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20210814030543/http://web.archive.org/screenshot/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20210814030543/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20210814030543/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by" source="api" trigger="hover" token="MUNC-36aX9-F6uW8h3JEWQxvQ5d7Ne9xZhlSa3uGZfLYIW9JLOhI7L8kkYQ4"></div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20210814030543/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r","20210814030543",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<div class="mm-page mm-slideout">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  <script src="https://web.archive.org/web/20210814030543js_/https://alertbar.oit.duke.edu/alert.html"></script>
+    <div class="l-page has-no-sidebars">
+  <header class="l-header" role="banner">
+    <div class="l-header-inner">
+      <a id="hamburger" href="#menu"><span>Menu</span></a>
+      <div class="l-branding">
+                  <div class="logo-container"><a href="/web/20210814030543/https://bigdata.duke.edu/" title="Home" rel="home" class="site-logo"><img src="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/dukelogo_white.svg" alt="Home"/></a></div>
+        
+                              <h1 class="site-name">
+              <a href="/web/20210814030543/https://bigdata.duke.edu/" title="Home" rel="home"><span>Rhodes Information Initiative at Duke</span></a>
+            </h1>
+          
+                  
+              </div><!--l-branding-close-->
+        <div class="l-region l-region--header">
+    <div id="block-search-form" role="search" class="block block--search block--search-form">
+        <div class="block__content">
+    <form class="search-block-form" action="/web/20210814030543/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="SEARCH" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-qk3atuBxlT8ned33zh2xp1DZJ_wv7PfhW9OdURb0Wm0"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+        <div class="l-region l-region--navigation">
+    <div id="block-superfish-1" class="block block--superfish block--superfish-1">
+        <h2 class="block__title">Main menu</h2>
+      <div class="block__content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-9 sf-parent-items-7 sf-single-items-2"><li id="menu-227-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/" class="sf-depth-1">Home</a></li><li id="menu-3059-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210814030543/https://bigdata.duke.edu/participate" class="sf-depth-1 menuparent">Participate</a><ul><li id="menu-3060-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/data" class="sf-depth-2">Data+</a></li><li id="menu-3061-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/data-expeditions" class="sf-depth-2">Data Expeditions</a></li><li id="menu-3062-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/interdisciplinary-courses" class="sf-depth-2">Interdisciplinary Courses</a></li><li id="menu-3767-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/opportunities" title="" class="sf-depth-2">Opportunities</a></li></ul></li><li id="menu-3083-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/web/20210814030543/https://bigdata.duke.edu/people" class="sf-depth-1 menuparent">People</a><ul><li id="menu-3084-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/alumni" class="sf-depth-2">Alumni</a></li></ul></li><li id="menu-3067-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210814030543/https://bigdata.duke.edu/research" class="sf-depth-1 menuparent">Research</a><ul><li id="menu-5762-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/research/us-air-force-center-excellence" class="sf-depth-2">Air Force Center of Excellence</a></li><li id="menu-3579-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/research/data-digital-humanities" class="sf-depth-2">Data &amp; Digital Humanities</a></li></ul></li><li id="menu-3085-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210814030543/https://bigdata.duke.edu/news" class="sf-depth-1 menuparent">News</a><ul><li id="menu-3075-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/newsletter" class="sf-depth-2">Newsletter</a></li><li id="menu-3076-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/videos" class="sf-depth-2">Videos</a></li></ul></li><li id="menu-3086-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/web/20210814030543/https://bigdata.duke.edu/events" class="sf-depth-1 menuparent">Events</a><ul><li id="menu-3400-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/rhodes-iid-talk-videos" class="sf-depth-2">iiD Talks Videos</a></li></ul></li><li id="menu-5767-1" class="middle odd sf-item-7 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities" class="sf-depth-1 menuparent">Computational Humanities</a><ul><li id="menu-5768-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/projects" title="" class="sf-depth-2">Projects</a></li><li id="menu-5769-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/people" title="" class="sf-depth-2">People</a></li><li id="menu-5770-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/events" title="" class="sf-depth-2">Events</a></li><li id="menu-5771-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/collaborations" title="" class="sf-depth-2">Collaborations</a></li><li id="menu-5772-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/opportunities" title="" class="sf-depth-2">Opportunities</a></li><li id="menu-5773-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/code" title="" class="sf-depth-2">Code</a></li><li id="menu-5774-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/about" class="sf-depth-2">About</a></li></ul></li><li id="menu-5121-1" class="middle even sf-item-8 sf-depth-1 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/tripods" class="sf-depth-1">TRIPODS@Duke</a></li><li id="menu-3079-1" class="last odd sf-item-9 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210814030543/https://bigdata.duke.edu/about-rhodes-iid" class="sf-depth-1 menuparent">About Rhodes iiD</a><ul><li id="menu-3080-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/partners" class="sf-depth-2">Partners</a></li><li id="menu-3077-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/support-iid" class="sf-depth-2">Support iiD</a></li><li id="menu-3462-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/sexual-harassment-has-no-place-statistics-data-science-1" class="sf-depth-2">Sexual Harassment Statement</a></li><li id="menu-3078-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210814030543/https://bigdata.duke.edu/contact" class="sf-depth-2">Contact Us</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+    </div><!--l-header-inner-->
+  </header>
+      <div class="l-region-highlighted">
+      <div class="l-region-highlighted-inner">
+        <div class="breadcrumb"><a href="/web/20210814030543/https://bigdata.duke.edu/">Home</a> &rsaquo;&rsaquo; <span class="breadcrumb-current">Answering Biological Questions Using Circular Data and Analysis in R</span></div>      </div>
+    </div>
+  
+      <div class="l-region-highlighted l-region-header">
+      <div class="l-region-highlighted-inner">
+        <div class="l-region l-region--highlighted">
+    <div id="block-views-header-full-width-block" class="block block--views block--views-header-full-width-block">
+        <div class="block__content">
+    <div class="view view-header-full-width view-id-header_full_width view-display-id-block view-dom-id-1339639d9a24f7471ac8d440eec75e14">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title">        <h1 class="field-content">Answering Biological Questions Using Circular Data and Analysis in R</h1>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+      </div>
+    </div>
+  
+  
+  <div class="l-main">
+    <div class="l-main-inner">
+      <div class="l-content" role="main">
+        <a id="main-content"></a>
+                          <h1>Answering Biological Questions Using Circular Data and Analysis in R</h1>
+                                                        <div id="block-panels-mini-project-display" class="block block--panels-mini block--panels-mini-project-display">
+        <div class="block__content">
+    <div class="main-content-2col clearfix panel-display">
+<!--[if lt IE 9]><div class="old-ie"><![endif]-->
+  <div class="region-content-wrapper">
+    <div class="section group panel-panel">
+      <div class="content-col-wrapper">
+        <div class="col span_1_of_2 a">
+         <div class="panel-pane pane-views pane-research-projects">
+            <div class="view view-research-projects view-id-research_projects view-display-id-block_5 clearfix view-dom-id-6d8213573d1871e3dcaa62093bcc5367">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <img typeof="foaf:Image" src="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/styles/large/public/Histioteuthis_KateThomas.jpeg?itok=oHxLWo9D" width="480" height="374" alt=""/>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+        </div>
+        <div class="col span_2_of_2 b">
+         <div class="panel-pane pane-views pane-research-projects">
+            <div class="view view-research-projects view-id-research_projects view-display-id-block_3 clearfix view-dom-id-d661042f840936c9171928be186f3675">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-research-overview">    <span class="views-label views-label-field-research-overview">Project Summary</span>    <div class="field-content"><p>This Data Expedition&nbsp;introduced&nbsp;hypothesis-driven data analysis in R&nbsp;and the concept of circular data, while providing some tools for importing it and analyzing it in R.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-themes">    <span class="views-label views-label-field-themes">Themes and Categories</span>    <div class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/research/field_themes_tid/345" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Health</a>, <a href="/web/20210814030543/https://bigdata.duke.edu/research/field_themes_tid/346" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Interdisciplinary Inquiry</a></div>  </div>  
+  <div class="views-field views-field-field-project-topics">        <div class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/research/field_project_topics_tid/358" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Data Expeditions</a></div>  </div>  
+  <div class="views-field views-field-field-year">    <span class="views-label views-label-field-year">Year</span>    <div class="field-content">2018</div>  </div>  
+  <div class="views-field views-field-field-apply-now-link">        <div class="field-content">
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!--[if lt IE 9]></div><![endif]-->
+</div>
+  </div>
+</div>
+<article about="/projects/answering-biological-questions-using-circular-data-and-analysis-r" typeof="sioc:Item foaf:Document" role="article" class="node node--research-projects node--full node--research-projects--full">
+      <header>
+                  <span property="dc:title" content="Answering Biological Questions Using Circular Data and Analysis in R" class="rdf-meta element-hidden"></span>    </header>
+  
+  
+  <div class="node__content">
+    <div class="field field--name-field-research-overview field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>After exploring a simple dataset to learn these tools, we applied&nbsp;what we learned to two real examples of circular datasets: one testing for magnetoreception in salmon (based on Putman et al. 2014), and the other testing for visual orientation in deep-sea squids (Thomas et al. 2017). The lesson was&nbsp;designed to be a code after me, step-by-step journey through data analysis for undergraduate students.</p>
+
+<p><strong>Graduate Students</strong>:&nbsp;Julia Notar&nbsp;and Katie Thomas</p>
+
+<p><strong>Faculty</strong>: Tom Mitchell-Olds</p>
+
+<p><strong>Course</strong>: Bio 304, Biological Data Analysis</p>
+
+<p>This lesson was done entirely in R, an open-source, free programming environment, and provided&nbsp;a rich opportunity for teaching students to explore, manipulate, and statistically analyze data using R and connect it to biological principles and questions. We did this through the introduction and analysis of circular datasets.&nbsp;Circular data is data that indicates an angular orientation (for example, which way an animal is facing or moving, which can be measured in degrees or radians) or a periodic event (for example, circadian rhythms). We took students from raw biological data to publication-quality figures and statistical analyses to demonstrate the broad applications of computing software and the benefits of learning a flexible, open-source programming language.</p>
+
+<p>After an introduction to circular data, students were presented with two different datasets to address two different biological questions using similar circular data analyses.</p>
+
+<ol>
+	<li>Do salmon use an inherited magnetic map to navigate using the Earth’s magnetic field?</li>
+	<li>Do cockeyed squids orient their different sized eyes in different directions to look at different light sources?</li>
+</ol>
+
+<p><a href="/web/20210814030543/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/FullLesson.html">See the full lesson</a>.</p>
+
+<h2>Datasets</h2>
+
+<p>The first dataset is a transformation (for copyright purposes) of the results of an experiment testing the effect of varying magnetic fields on juvenile salmon orientation (Putman et al. 2014). It contains the results of two experimental treatments and one control treatment, each in a column, with rows indicating the circular orientation (in degrees) of each juvenile salmon in the experiment. The data are from a published study on how naïve juvenile salmon navigate hundreds to thousands of kilometers to feeding areas, and support the hypothesis that salmon use magneto-reception to help in migrations.</p>
+
+<p>The second dataset is raw data on in situ visual orientation among deep-sea cockeyed squids (Thomas et al. 2017). The measurements come from 30 years of deep-sea video data that were analyzed for squid eye orientations. Columns indicate the species, left eye orientation, and right eye orientation for each individual squid measured. The data are from a published study on the functions of different sized eyes in cockeyed squids, and support the hypothesis that the larger left eye looks upward toward dim, downwelling sunlight and the smaller right eye looks downward for flashes of bioluminescence.</p>
+
+<h2>Class Format</h2>
+
+<p>We designed this to be a first introduction to circular data analysis in R. We chose to use two different datasets so that students could first be led through data import, sub-setting, transformation, plotting, and statistical analysis by the instructors. Students are given only the data files at the beginning of class, and then are walked through coding and structuring analyses by the instructor. Then, we ask them to apply these methods and skills to a different dataset answering a completely different biological question on their own.</p>
+
+<h2>Student Feedback</h2>
+
+<p>“Very clear explanations of why circular data needed to be treated differently”</p>
+
+<p>“They were really understanding of our knowledge of R, but also really helped out in letting us know other features of R and Data Analysis that the class may not have explored”</p>
+
+<p>“The explanations were very thorough and helped me truly understand what I was doing when I started to write the code on my own”</p>
+
+<p>“The pace was good! Really appreciated both lecturers who repeated things over and over so we could follow along!”</p>
+
+<p>“It was helpful getting to use some of the programming language in a different style of questions”</p>
+
+<p>“Very interesting to learn about circular data”</p>
+
+<p>“I thought the lectures were very interesting, applicable, and well-taught!”</p>
+
+<h2>Sources</h2>
+
+<p>Putman, N. F., M. M. Scanlan, E. J. Billman, J. P. O’Neil, R. B. Couture, T. P. Quinn, K. J. Lohmann, and D. L. G. Noakes. 2014. An inherited magnetic map guides ocean navigation in juvenile pacific salmon. Curr. Biol. 24:446–450. Elsevier Ltd.</p>
+
+<p>Thomas, K., B. Robison, and S. Johnsen. 2017. Two eyes for two purposes: in situ evidence for asymmetric vision in the cockeyed squids Histioteuthis heteropsis and Stigmatoteuthis dofleini. Philos. Trans. R. Soc. B-Biological Sci. 372:20160069.</p>
+</div></div></div>  </div>
+
+    </article>
+<div id="block-views-research-projects-block-2" class="block block--views block--views-research-projects-block-2">
+        <h2 class="block__title">Related Projects</h2>
+      <div class="block__content">
+    <div class="view view-research-projects view-id-research_projects view-display-id-block_2 clearfix view-dom-id-7acf5c15072e2c91e44d51fca332d399">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-project-image">        <div class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/projects/actor-partner-interdependence-model-r-mental-and-physical-health-spouses"><img typeof="foaf:Image" src="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/styles/photo_-_thumbnail_-_focus_220/public/KamisWest2020_0.png?itok=uLU0jZ7o" alt=""/></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/projects/actor-partner-interdependence-model-r-mental-and-physical-health-spouses">Actor Partner Interdependence Model in R: The Mental and Physical Health of Spouses</a></span>  </div>  
+  <div class="views-field views-field-field-research-overview">        <div class="field-content"><p><span style="font-size:12pt">In this two-day, virtual data expedition project, students were introduced to the APIM in the context of stress proliferation, linked lives, the spousal relationship, and mental and physical health outcomes. </span></p>
+
+<p><span style="font-size:12pt">Stress proliferation is a concept within the stress process paradigm that explains how one person’s stressors can influence others (Thoits 2010). Combining this with the life course principle of linked lives explains that because people are embedded in social networks, stress not only can impact the individual but can also proliferate to people close to them (Elder Jr, Shanahan and Jennings 2015). For example, one spouse’s chronic health condition may lead to stress-provoking strain in the marital relationship, eventually spilling over to affect the other spouse’s mental health. Additionally, because partners share an environment, experiences, and resources (e.g., money and information), as well as exert social control over each other, they can monitor and influence each other’s health and health behaviors. This often leads to health concordance within couples; in other words, because individuals within the couple influence each other’s health and well-being, their health tends to become more similar or more alike (Kiecolt-Glaser and Wilson 2017, Polenick, Renn and Birditt 2018). Thus, a spouse’s current health condition may influence their partner’s future health <em>and</em> spouses may contemporaneously exhibit similar health conditions or behaviors. </span></p>
+
+<p><span style="font-size:12pt">However, how spouses influence each other may be patterned by the gender of the spouse with the health condition or exhibiting the health behaviors. Recent evidence suggests that a wife’s health condition may have little influence on her husband’s future health conditions, but that a husband’s health condition will most likely influence his wife’s future health (Kiecolt-Glaser and Wilson 2017).</span></p>
+</div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-project-image">        <div class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/projects/machine-learning-approach-characterizing-clusters-turbulent-flow"><img typeof="foaf:Image" src="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/styles/photo_-_thumbnail_-_focus_220/public/interactions-between-re-fr-824x508.png?itok=eiKrJFML" alt=""/></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/projects/machine-learning-approach-characterizing-clusters-turbulent-flow">A Machine Learning Approach to Characterizing Clusters in Turbulent Flow</a></span>  </div>  
+  <div class="views-field views-field-field-research-overview">        <div class="field-content"><p>Fluid mechanics is the study of how fluids (e.g., air, water) move and the forces on them. Scientists and engineers have developed mathematical equations to model the motions of fluid and inertial particles. However, these equations are often computationally expensive, meaning they take a long time for the computer to solve.</p>
+
+<p>&nbsp;</p>
+
+<p>To reduce the computation time, we can use machine learning techniques to develop statistical models of fluid behavior. Statistical models do not actually represent the physics of fluids; rather, they learn trends and relationships from the results of previous simulation experiments. Statistical models allow us to leverage the findings of long, expensive simulations to obtain results in a fraction of the time.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>In this project, we provide students with the results of direct numerical simulations (DNS), which took many weeks for the computer to solve. We ask students to use machine learning techniques to develop statistical models of the results of the DNS.</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-project-image">        <div class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/projects/baboon-reproduction-linking-sexual-swellings-estrogen-and-mating-behavior"><img typeof="foaf:Image" src="https://web.archive.org/web/20210814030543im_/https://bigdata.duke.edu/sites/bigdata.duke.edu/files/styles/photo_-_thumbnail_-_focus_220/public/baboon.png?itok=i-m2fO8-" alt=""/></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/web/20210814030543/https://bigdata.duke.edu/projects/baboon-reproduction-linking-sexual-swellings-estrogen-and-mating-behavior">Baboon Reproduction: Linking Sexual Swellings, Estrogen, and Mating Behavior</a></span>  </div>  
+  <div class="views-field views-field-field-research-overview">        <div class="field-content"><p><span style="font-size:12pt">Female baboons occasionally exhibit large swellings on their behinds. Although these ‘sexual swellings’ may evoke disgust from human on-lookers, they provide important information to group members about a female’s reproductive state. To figure out what these sexual swellings mean and whether male baboons notice, we need to look at the data. &nbsp;</span></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://web.archive.org/web/20210814030543/https://bigdata.duke.edu/research?field_project_topics_tid=357">
+    See all Research  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+              </div><!--l-content-close-->
+
+                </div><!--l-main-inner-->
+  </div><!--l-main-close-->
+
+  
+  
+  
+  
+  
+  
+  
+  <footer class="l-footer" role="contentinfo">
+    <div class="l-footer-nav" role="contentinfo">
+      <div class="l-footer-nav-inner">
+          <div class="l-region l-region--footer-nav">
+    <div id="block-panels-mini-footer" class="block block--panels-mini block--panels-mini-footer">
+        <div class="block__content">
+    <div class="tts-theme-footer-5col  clearfix panel-display" id="mini-panel-footer">
+<!--[if lt IE 9]><div class="old-ie"><![endif]-->
+  <div class="region-content-wrapper">
+    <div class="section group panel-panel">
+      <div class="col span_1_of_5 a">
+       <div class="panel-pane pane-block pane-block-2">
+            <div class="footer-logo">&nbsp;</div>
+
+<h2>Rhodes Information Initiative at Duke</h2>
+
+<p>315 Gross Hall<br/>
+140 Science Drive<br/>
+Durham NC 27708<br/>
+919-613-7829</p>
+    </div>
+      </div>
+      <div class="content-col-wrapper">
+        <div class="col span_2_of_5 b">
+         <div class="panel-pane pane-block pane-menu-block-4">
+          <h2 class="pane-title">Participate</h2>
+        <div class="menu-block-wrapper menu-block-4 menu-name-menu-footer-4 parent-mlid-1321 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-842"><a href="/web/20210814030543/https://bigdata.duke.edu/data" title="">Data+</a></li>
+<li class="leaf menu-mlid-843"><a href="/web/20210814030543/https://bigdata.duke.edu/data" title="">Data Expeditions</a></li>
+<li class="leaf menu-mlid-5562"><a href="/web/20210814030543/https://bigdata.duke.edu/interdisciplinary-courses" title="">Interdisciplinary Courses</a></li>
+<li class="last leaf menu-mlid-5563"><a href="/web/20210814030543/https://bigdata.duke.edu/opportunities" title="">Opportunities</a></li>
+</ul></div>
+    </div>
+        </div>
+        <div class="col span_3_of_5 c">
+         <div class="panel-pane pane-block pane-menu-block-5">
+          <h2 class="pane-title">Research</h2>
+        <div class="menu-block-wrapper menu-block-5 menu-name-menu-footer-4 parent-mlid-1322 menu-level-1">
+  <ul class="menu"><li class="first last leaf menu-mlid-1323"><a href="/web/20210814030543/https://bigdata.duke.edu/research" title="">Research Projects</a></li>
+</ul></div>
+    </div>
+        </div>
+        <div class="col span_4_of_5 d">
+         <div class="panel-pane pane-block pane-menu-block-6">
+          <h2 class="pane-title">News &amp; Events</h2>
+        <div class="menu-block-wrapper menu-block-6 menu-name-menu-footer-4 parent-mlid-1325 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1326"><a href="/web/20210814030543/https://bigdata.duke.edu/news" title="">News</a></li>
+<li class="leaf menu-mlid-1327"><a href="/web/20210814030543/https://bigdata.duke.edu/events" title="">Events</a></li>
+<li class="last leaf menu-mlid-1324"><a href="/web/20210814030543/https://bigdata.duke.edu/videos" title="">Videos</a></li>
+</ul></div>
+    </div>
+        </div>
+        <div class="col span_5_of_5 e">
+         <div class="panel-pane pane-block pane-block-3">
+          <h2 class="pane-title">Stay Connected</h2>
+        <p><a class="icon-youtube" href="https://web.archive.org/web/20210814030543/https://www.youtube.com/channel/UC-5s5ZXiNx-igMtRDIqcE0Q">YouTube</a></p>
+
+<p><a class="icon-mail" href="/web/20210814030543/https://bigdata.duke.edu/newsletter">Newsletter</a></p>
+
+<p><a class="icon-mail" href="/web/20210814030543/https://bigdata.duke.edu/contact">Contact Us</a></p>
+    </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!--[if lt IE 9]></div><![endif]-->
+</div>  </div>
+</div>
+  </div>
+      </div>
+    </div>
+    <div class="l-footer-inner">
+            <script type="text/javascript" src="/web/20210814030543js_/https://bigdata.duke.edu/sites/all/themes/tts/js/global-footer.js"></script>
+        <div class="l-region l-region--footer">
+    <div id="block-shib-auth-login-box" class="block block--shib-auth block--shib-auth-login-box">
+        <h2 class="block__title">Shibboleth login</h2>
+      <div class="block__content">
+    <div id="shib_login_url">
+  <a href="https://web.archive.org/web/20210814030543/https://bigdata.duke.edu/Shibboleth.sso/Login?target=https%3A%2F%2Fbigdata.duke.edu%2F%3Fq%3Dshib_login%2Fnode%2F806">NetID Login</a>
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+  </footer>
+</div>
+  
+<nav id="mmenu_left" class="mmenu-nav clearfix">
+  <ul>
+                                    <ul><li class="mmenu-block-wrap"><span><div id="block-search-form--2" role="search" class="block block--search block--search-form--2">
+        <div class="block__content">
+    <form class="search-block-form--3" action="/web/20210814030543/https://bigdata.duke.edu/projects/answering-biological-questions-using-circular-data-and-analysis-r" method="post" id="search-block-form--3" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--6">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="SEARCH" type="text" id="edit-search-block-form--6" name="search_block_form" value="" size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-dg4ryHvVK87pkhApUiKw0Y4bYb5vxz5Jlev3d0JkvM8"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+</span></li></ul>
+                                                  <ul class="mmenu-mm-list-level-1"><li class="mmenu-mm-list-mlid-227 mmenu-mm-list-path-front"><a href="/web/20210814030543/https://bigdata.duke.edu/" class="mmenu-mm-list "><i class="icon-home"></i><span class="mmenu-block-title">Home</span></a></li><li class="mmenu-mm-list-mlid-3059 mmenu-mm-list-path-node-480"><a href="/web/20210814030543/https://bigdata.duke.edu/participate" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Participate</span></a><ul class="mmenu-mm-list-level-2"><li class="mmenu-mm-list-mlid-3060 mmenu-mm-list-path-node-471"><a href="/web/20210814030543/https://bigdata.duke.edu/data" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Data+</span></a></li><li class="mmenu-mm-list-mlid-3061 mmenu-mm-list-path-node-481"><a href="/web/20210814030543/https://bigdata.duke.edu/data-expeditions" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Data Expeditions</span></a></li><li class="mmenu-mm-list-mlid-3062 mmenu-mm-list-path-node-494"><a href="/web/20210814030543/https://bigdata.duke.edu/interdisciplinary-courses" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Interdisciplinary Courses</span></a></li><li class="mmenu-mm-list-mlid-3767 mmenu-mm-list-path-node-493"><a href="/web/20210814030543/https://bigdata.duke.edu/opportunities" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Opportunities</span></a></li></ul></li><li class="mmenu-mm-list-mlid-3083 mmenu-mm-list-path-node-502"><a href="/web/20210814030543/https://bigdata.duke.edu/people" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">People</span></a><ul class="mmenu-mm-list-level-2"><li class="mmenu-mm-list-mlid-3084 mmenu-mm-list-path-node-503"><a href="/web/20210814030543/https://bigdata.duke.edu/alumni" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Alumni</span></a></li></ul></li><li class="mmenu-mm-list-mlid-3067 mmenu-mm-list-path-node-482"><a href="/web/20210814030543/https://bigdata.duke.edu/research" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Research</span></a><ul class="mmenu-mm-list-level-2"><li class="mmenu-mm-list-mlid-5762 mmenu-mm-list-path-node-1887"><a href="/web/20210814030543/https://bigdata.duke.edu/research/us-air-force-center-excellence" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Air Force Center of Excellence</span></a></li><li class="mmenu-mm-list-mlid-3579 mmenu-mm-list-path-node-864"><a href="/web/20210814030543/https://bigdata.duke.edu/research/data-digital-humanities" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Data &amp; Digital Humanities</span></a></li></ul></li><li class="mmenu-mm-list-mlid-3085 mmenu-mm-list-path-node-504"><a href="/web/20210814030543/https://bigdata.duke.edu/news" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">News</span></a><ul class="mmenu-mm-list-level-2"><li class="mmenu-mm-list-mlid-3075 mmenu-mm-list-path-node-477"><a href="/web/20210814030543/https://bigdata.duke.edu/newsletter" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Newsletter</span></a></li><li class="mmenu-mm-list-mlid-3076 mmenu-mm-list-path-node-475"><a href="/web/20210814030543/https://bigdata.duke.edu/videos" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Videos</span></a></li></ul></li><li class="mmenu-mm-list-mlid-3086 mmenu-mm-list-path-node-505"><a href="/web/20210814030543/https://bigdata.duke.edu/events" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Events</span></a><ul class="mmenu-mm-list-level-2"><li class="mmenu-mm-list-mlid-3400 mmenu-mm-list-path-node-727"><a href="/web/20210814030543/https://bigdata.duke.edu/rhodes-iid-talk-videos" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">iiD Talks Videos</span></a></li></ul></li><li class="mmenu-mm-list-mlid-5767 mmenu-mm-list-path-node-1921"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Computational Humanities</span></a><ul class="mmenu-mm-list-level-2"><li class="mmenu-mm-list-mlid-5768 mmenu-mm-list-path-node-1922"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/projects" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Projects</span></a></li><li class="mmenu-mm-list-mlid-5769 mmenu-mm-list-path-node-1923"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/people" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">People</span></a></li><li class="mmenu-mm-list-mlid-5770 mmenu-mm-list-path-node-1924"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/events" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Events</span></a></li><li class="mmenu-mm-list-mlid-5771 mmenu-mm-list-path-node-1925"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/collaborations" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Collaborations</span></a></li><li class="mmenu-mm-list-mlid-5772 mmenu-mm-list-path-node-1926"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/opportunities" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Opportunities</span></a></li><li class="mmenu-mm-list-mlid-5773 mmenu-mm-list-path-node-1927"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/code" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Code</span></a></li><li class="mmenu-mm-list-mlid-5774 mmenu-mm-list-path-node-1928"><a href="/web/20210814030543/https://bigdata.duke.edu/computational-humanities/about" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">About</span></a></li></ul></li><li class="mmenu-mm-list-mlid-5121 mmenu-mm-list-path-node-1596"><a href="/web/20210814030543/https://bigdata.duke.edu/tripods" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">TRIPODS@Duke</span></a></li><li class="mmenu-mm-list-mlid-3079 mmenu-mm-list-path-node-468"><a href="/web/20210814030543/https://bigdata.duke.edu/about-rhodes-iid" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">About Rhodes iiD</span></a><ul class="mmenu-mm-list-level-2"><li class="mmenu-mm-list-mlid-3080 mmenu-mm-list-path-node-470"><a href="/web/20210814030543/https://bigdata.duke.edu/partners" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Partners</span></a></li><li class="mmenu-mm-list-mlid-3077 mmenu-mm-list-path-node-474"><a href="/web/20210814030543/https://bigdata.duke.edu/support-iid" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Support iiD</span></a></li><li class="mmenu-mm-list-mlid-3462 mmenu-mm-list-path-node-797"><a href="/web/20210814030543/https://bigdata.duke.edu/sexual-harassment-has-no-place-statistics-data-science-1" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Sexual Harassment Statement</span></a></li><li class="mmenu-mm-list-mlid-3078 mmenu-mm-list-path-node-472"><a href="/web/20210814030543/https://bigdata.duke.edu/contact" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Contact Us</span></a></li></ul></li></ul>                    </ul>
+</nav>
+</div>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 03:05:43 Aug 14, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:41:46 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.454
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.062
+  esindex: 0.008
+  cdx.remote: 6.03
+  LoadShardBlock: 49.542 (3)
+  PetaboxLoader3.datanode: 53.297 (4)
+  load_resource: 131.445
+  PetaboxLoader3.resolve: 59.639
+  nav: 0.163 (6)
+-->
